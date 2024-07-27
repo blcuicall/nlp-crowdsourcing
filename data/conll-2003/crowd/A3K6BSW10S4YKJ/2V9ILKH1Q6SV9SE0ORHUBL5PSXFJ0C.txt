@@ -1,0 +1,71 @@
+
+TENNIS O
+- O
+RESULTS O
+AT O
+CANADIAN B-MISC
+OPEN I-MISC
+. O
+
+TORONTO B-LOC
+1996-08-24 O
+
+Results O
+from O
+the O
+Canadian B-MISC
+Open I-MISC
+
+tennis O
+tournament O
+on O
+Saturday O
+( O
+prefix O
+numbers O
+denotes O
+
+seedings O
+) O
+: O
+
+Semifinals O
+
+3 O
+- O
+Wayne B-PER
+Ferreira I-PER
+( O
+South O
+Africa O
+) O
+beat O
+7 O
+- O
+Todd B-PER
+Martin I-PER
+( O
+U.S. O
+) O
+
+4-6 O
+6-3 O
+7-5 O
+
+Todd B-PER
+Woodbridge I-PER
+( O
+Australia B-LOC
+) O
+beat O
+4 O
+- O
+Marcelo B-PER
+Rios I-PER
+( O
+Chile B-LOC
+) O
+6-0 O
+
+6-3 O
+

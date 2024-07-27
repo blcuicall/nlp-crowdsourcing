@@ -1,0 +1,139 @@
+
+BADMINTON B-MISC
+- O
+MALAYSIAN B-MISC
+OPEN I-MISC
+RESULTS I-MISC
+. O
+
+KUALA B-LOC
+LUMPUR I-LOC
+1996-08-25 B-MISC
+
+Results O
+of O
+finals O
+in O
+the O
+
+Malaysian O
+Open O
+badminton B-MISC
+tournament O
+on O
+Sunday O
+( O
+prefix O
+numbers O
+
+denote O
+seedings O
+) O
+: O
+
+Men O
+'s O
+singles O
+
+2 O
+- O
+Ong B-PER
+Ewe I-PER
+Hock I-PER
+( O
+Malaysia O
+) O
+beat O
+Indra B-PER
+Wijaya I-PER
+( O
+Indonesia O
+) O
+1-15 O
+
+15-1 O
+15-7 O
+
+Women O
+'s O
+singles O
+
+2 O
+- O
+Zhang B-PER
+Ning I-PER
+( O
+China O
+) O
+beat O
+1 O
+- O
+Wang B-PER
+Chen I-PER
+( O
+China O
+) O
+11-7 O
+11-8 O
+
+Women O
+'s O
+doubles O
+
+3/4 O
+- O
+Marlene B-PER
+Thomsen I-PER
+/ O
+Lisbet B-PER
+Stuer-Lauridsen I-PER
+( O
+Denmark O
+) O
+beat O
+
+3/4 O
+- O
+Qiang B-PER
+Hong I-PER
+/ O
+Liu B-PER
+Lu I-PER
+( O
+China O
+) O
+10-15 O
+17-14 O
+17-16 O
+
+Men O
+'s O
+doubles O
+
+1 O
+- O
+Yap B-PER
+Kim I-PER
+Hock I-PER
+/ O
+Cheah B-PER
+Soon I-PER
+Kit I-PER
+( O
+Malaysia O
+) O
+beat O
+Lee B-PER
+Wan I-PER
+Wah I-PER
+/ O
+Chong O
+
+Tan O
+Fook O
+( O
+Malaysia O
+) O
+15-5 O
+15-3 O
+

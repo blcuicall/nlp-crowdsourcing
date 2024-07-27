@@ -1,0 +1,190 @@
+
+PRESS B-ORG
+DIGEST I-ORG
+- O
+Iraq B-LOC
+- O
+Aug O
+24 O
+. O
+
+BAGHDAD B-LOC
+1996-08-24 O
+
+These O
+are O
+some O
+of O
+the O
+leading O
+stories O
+in O
+the O
+official O
+Iraq B-LOC
+i O
+press O
+on O
+Saturday O
+. O
+
+Reuters B-ORG
+has O
+not O
+verified O
+these O
+stories O
+and O
+does O
+not O
+vouch O
+for O
+their O
+accuracy O
+. O
+
+JUMHOURIYA B-ORG
+
+- O
+Istanbul B-ORG
+chamber I-ORG
+of I-ORG
+commerce I-ORG
+urges O
+Ankara B-LOC
+to O
+resume O
+trade O
+with O
+Iraq B-LOC
+. O
+
+- O
+Offers O
+from O
+Arab O
+and O
+foreign O
+companies O
+to O
+supply O
+Iraq B-LOC
+with O
+goods O
+. O
+
+- O
+Four O
+ships O
+unload O
+tonnes O
+of O
+Iraq B-LOC
+-bound O
+sugar O
+at O
+Jordan B-LOC
+'s O
+Aqaba B-LOC
+. O
+
+- O
+Editorial O
+blames O
+U.S. B-LOC
+for O
+latest O
+flare-up O
+of O
+fighting O
+between O
+Kurdish B-ORG
+rebels I-ORG
+in O
+northern O
+Iraq B-LOC
+. O
+
+- O
+Black O
+market O
+booms O
+in O
+the O
+shadow O
+of O
+state-run O
+supermarkets O
+. O
+
+- O
+Parliament O
+completes O
+draft O
+law O
+on O
+protection O
+of O
+river O
+waters O
+in O
+Iraq B-LOC
+. O
+
+QADISSIYA B-ORG
+
+- O
+Iraq B-LOC
+denounces O
+violation O
+of O
+airspace O
+by O
+U.S. B-LOC
+warplanes O
+. O
+
+IRAQ B-LOC
+
+- O
+Editorial O
+lambasts O
+Jalal B-PER
+Talabani I-PER
+, O
+leader O
+of O
+a O
+Kurdish O
+rebel O
+faction O
+in O
+the O
+north O
+, O
+for O
+liaising O
+with O
+Iran O
+in O
+its O
+fight O
+against O
+rivals O
+. O
+
+BABEL B-ORG
+
+- O
+Blaming O
+Iraq B-LOC
+for O
+riots O
+in O
+Jordan B-LOC
+is O
+a O
+dirty O
+game O
+. O
+

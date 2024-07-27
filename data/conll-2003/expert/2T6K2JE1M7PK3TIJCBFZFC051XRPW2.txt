@@ -1,0 +1,65 @@
+
+CRICKET O
+- O
+ENGLAND B-LOC
+326 O
+ALL O
+OUT O
+V O
+PAKISTAN B-LOC
+IN O
+THIRD O
+TEST O
+. O
+
+LONDON B-LOC
+1996-08-23 O
+
+England B-LOC
+were O
+all O
+out O
+for O
+326 O
+in O
+their O
+first O
+innings O
+on O
+the O
+second O
+day O
+of O
+the O
+third O
+and O
+final O
+test O
+against O
+Pakistan B-LOC
+at O
+The B-LOC
+Oval I-LOC
+on O
+Friday O
+. O
+
+Score O
+: O
+England B-LOC
+326 O
+( O
+J. B-PER
+Crawley I-PER
+106 O
+, O
+G. B-PER
+Thorpe I-PER
+54 O
+. O
+
+Waqar B-PER
+Younis I-PER
+4-95 O
+) O
+

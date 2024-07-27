@@ -1,0 +1,80 @@
+
+SOCCER O
+- O
+FRENCH O
+LEAGUE O
+RESULTS O
+. O
+
+PARIS/LOC O
+1996-08-24 O
+
+Results O
+of O
+French O
+first O
+division O
+
+matches O
+on O
+Saturday O
+: O
+
+Nantes O
+0 O
+Lens B-ORG
+1 O
+
+Nice O
+1 O
+Bastia B-ORG
+1 O
+
+Lille O
+3 O
+Rennes B-ORG
+1 O
+
+Bordeaux O
+0 O
+Auxerre O
+0 O
+
+Marseille B-ORG
+1 O
+Metz O
+2 O
+
+Strasbourg O
+1 O
+Le O
+Havre O
+0 O
+
+Caen O
+1 O
+Lyon O
+1 O
+
+Guingamp O
+2 O
+Monaco B-ORG
+1 O
+
+Montpellier O
+0 O
+Cannes O
+1 O
+
+Played O
+on O
+Friday O
+: O
+
+Nancy B-ORG
+0 O
+Paris O
+St I-ORG
+Germain O
+0 O
+

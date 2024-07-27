@@ -1,0 +1,245 @@
+
+GOLF O
+- O
+SCORES O
+AT O
+WORLD B-MISC
+SERIES I-MISC
+OF O
+GOLF O
+. O
+
+AKRON B-LOC
+, O
+Ohio B-LOC
+1996-08-22 O
+
+Scores O
+from O
+the O
+$ O
+2.1 O
+
+million O
+NEC B-ORG
+World B-MISC
+Series I-MISC
+of O
+Golf O
+after O
+the O
+first O
+round O
+
+Thursday O
+at O
+the O
+7,149 O
+yard O
+, O
+par O
+70 O
+Firestone O
+C.C O
+course O
+
+( O
+players O
+U.S. B-LOC
+unless O
+stated O
+) O
+: O
+
+66 O
+Paul B-PER
+Goydos I-PER
+, O
+Billy O
+Mayfair O
+, O
+Hidemichi B-PER
+Tanaka I-PER
+( O
+Japan B-LOC
+) O
+
+68 O
+Steve B-PER
+Stricker I-PER
+
+69 O
+Justin B-PER
+Leonard I-PER
+, O
+Mark B-PER
+Brooks I-PER
+
+70 O
+Tim B-PER
+Herron I-PER
+, O
+Duffy B-PER
+Waldorf I-PER
+, O
+Davis B-PER
+Love I-PER
+, O
+Anders O
+Forsbrand O
+
+( O
+Sweden B-LOC
+) O
+, O
+Nick B-PER
+Faldo I-PER
+( O
+Britain B-LOC
+) O
+, O
+John B-PER
+Cook I-PER
+, O
+Steve B-PER
+Jones I-PER
+, O
+Phil O
+
+Mickelson O
+, O
+Greg B-PER
+Norman I-PER
+( O
+Australia B-LOC
+) O
+
+71 O
+Ernie B-PER
+Els I-PER
+( O
+South B-LOC
+Africa I-LOC
+) O
+, O
+Scott B-PER
+Hoch I-PER
+
+72 O
+Clarence B-PER
+Rose I-PER
+, O
+Loren B-PER
+Roberts I-PER
+, O
+Fred B-PER
+Funk I-PER
+, O
+Sven B-PER
+Struver I-PER
+
+( O
+Germany B-LOC
+) O
+, O
+Alexander B-PER
+Cejka I-PER
+( O
+Germany B-LOC
+) O
+, O
+Hal B-PER
+Sutton I-PER
+, O
+Tom B-PER
+Lehman I-PER
+
+73 O
+D.A. B-PER
+Weibring I-PER
+, O
+Brad B-PER
+Bryant I-PER
+, O
+Craig B-PER
+Parry I-PER
+( O
+Australia B-LOC
+) O
+, O
+
+Stewart B-PER
+Ginn I-PER
+( O
+Australia B-LOC
+) O
+, O
+Corey B-PER
+Pavin I-PER
+, O
+Craig B-PER
+Stadler I-PER
+, O
+Mark O
+
+O'Meara O
+, O
+Fred B-PER
+Couples I-PER
+
+74 O
+Paul B-PER
+Stankowski I-PER
+, O
+Costantino B-PER
+Rocca I-PER
+( O
+Italy B-LOC
+) O
+
+75 O
+Jim B-PER
+Furyk I-PER
+, O
+Satoshi B-PER
+Higashi I-PER
+( O
+Japan B-LOC
+) O
+, O
+Willie B-PER
+Wood I-PER
+, O
+Shigeki O
+
+Maruyama O
+( O
+Japan B-LOC
+) O
+
+76 O
+Scott B-PER
+McCarron I-PER
+
+77 O
+Wayne B-PER
+Westner I-PER
+( O
+South B-LOC
+Africa I-LOC
+) O
+, O
+Steve B-PER
+Schneiter I-PER
+
+79 O
+Tom B-PER
+Watson I-PER
+
+81 O
+Seiki B-PER
+Okuda I-PER
+( O
+Japan B-LOC
+) O
+

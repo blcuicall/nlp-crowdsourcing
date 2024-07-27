@@ -1,0 +1,69 @@
+
+SOCCER O
+- O
+LEADING O
+FRENCH B-MISC
+LEAGUE I-MISC
+SCORERS O
+. O
+
+PARIS B-LOC
+1996-08-24 O
+
+Leading O
+goalscorers O
+in O
+the O
+French O
+
+first O
+division O
+after O
+Saturday O
+'s O
+matches O
+: O
+
+3 O
+- O
+Anto B-PER
+Drobnjak I-PER
+( O
+Bastia B-ORG
+) O
+, O
+Xavier B-PER
+Gravelaine I-PER
+( O
+Marseille B-ORG
+) O
+. O
+
+2 O
+- O
+Miladin B-PER
+Becanovic I-PER
+( O
+Lille B-ORG
+) O
+, O
+Enzo B-PER
+Scifo I-PER
+( O
+Monaco B-ORG
+) O
+, O
+
+Vladimir B-PER
+Smicer I-PER
+( O
+Lens B-ORG
+) O
+, O
+Christopher B-PER
+Wreh I-PER
+( O
+Guingamp B-ORG
+) O
+. O
+

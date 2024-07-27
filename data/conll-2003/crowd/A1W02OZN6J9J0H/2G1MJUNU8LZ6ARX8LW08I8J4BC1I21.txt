@@ -1,0 +1,91 @@
+
+SOCCER B-MISC
+- I-MISC
+EUROPEAN I-MISC
+CUP I-MISC
+DRAWS O
+FOR O
+AEK B-ORG
+, O
+OLYMPIAKOS O
+, O
+PAO B-ORG
+. O
+
+ATHENS B-LOC
+1996-08-23 O
+
+Following O
+are O
+the O
+European O
+soccer O
+
+draws O
+for O
+the O
+UEFA B-MISC
+cup I-MISC
+and O
+the O
+cup O
+'s O
+winners O
+cup O
+involving O
+Greek B-LOC
+
+teams O
+that O
+took O
+place O
+today O
+in O
+Geneva B-LOC
+: O
+
+x- O
+AEK B-ORG
+Athens B-LOC
+( O
+Greece B-LOC
+) O
+v O
+Chemlon B-ORG
+Humenne I-ORG
+( O
+Slovakia B-LOC
+) O
+
+x O
+-Olympiakos B-ORG
+v O
+Ferencvaros B-ORG
+( O
+Hungary B-LOC
+) O
+
+x- O
+PAO B-ORG
+v O
+Legia B-ORG
+Warsaw I-ORG
+( O
+Poland B-LOC
+) O
+
+x O
+indicates O
+seeded O
+teams O
+. O
+
+-- O
+Dimitris B-PER
+Kontogiannis I-PER
+, O
+Athens B-LOC
+Newsroom O
++301 O
+3311812-4 O
+

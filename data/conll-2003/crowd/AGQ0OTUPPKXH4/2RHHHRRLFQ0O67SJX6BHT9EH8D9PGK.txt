@@ -1,0 +1,427 @@
+
+MOTORCYCLING O
+- O
+WORLD O
+SUPERBIKE O
+CHAMPIONSHIP O
+RESULTS O
+. O
+
+SUGO O
+, O
+Japan B-LOC
+1996-08-25 O
+
+Leading O
+results O
+from O
+round O
+
+nine O
+of O
+the O
+superbike O
+world O
+championship O
+on O
+Sunday O
+: O
+
+First O
+race O
+
+1. O
+Yuuchi B-PER
+Takeda I-PER
+( O
+Japan B-LOC
+) O
+Honda B-ORG
+38 O
+minutes O
+30.054 O
+seconds O
+
+2. O
+Noriyuki B-PER
+Haga I-PER
+( O
+Japan B-LOC
+) O
+Yamaha B-ORG
+38:30.140 O
+
+3. O
+Wataru B-PER
+Yoshikawa I-PER
+( O
+Japan B-LOC
+) O
+Yamaha B-ORG
+38:32.353 O
+
+4. O
+Troy B-PER
+Corser I-PER
+( O
+Australia B-LOC
+) O
+Ducati B-ORG
+38:34.436 O
+
+5. O
+John B-PER
+Kocinski I-PER
+( O
+U.S. B-LOC
+) O
+Ducati B-ORG
+38:36.306 O
+
+6. O
+Aaron B-PER
+Slight I-PER
+( O
+New B-LOC
+Zealand I-LOC
+) O
+Honda B-ORG
+38:41.756 O
+
+7. O
+Norihiko B-PER
+Fujiwara I-PER
+( O
+Japan B-LOC
+) O
+Yamaha B-ORG
+38:43.253 O
+
+8. O
+Carl B-PER
+Fogarty I-PER
+( O
+Britain B-LOC
+) O
+Honda B-ORG
+38:49.595 O
+
+9. O
+Akira B-PER
+Ryo I-PER
+( O
+Japan B-LOC
+) O
+Kawasaki B-ORG
+38:50.269 O
+
+10. O
+Shiya B-PER
+Takeishi I-PER
+( O
+Japan B-LOC
+) O
+Kawasaki B-ORG
+38:52.271 O
+
+Fastest O
+lap O
+: O
+Haga O
+147.159 O
+kph O
+. O
+
+Second O
+race O
+
+1. O
+Takuma B-PER
+Aoki I-PER
+( O
+Japan B-LOC
+) O
+Honda B-ORG
+38:18.759 O
+
+2. O
+Kocinski O
+38:19.313 O
+
+3. O
+Haga O
+38:32.040 O
+
+4. O
+Slight O
+38:32.149 O
+
+5. O
+Fogarty O
+38:32.719 O
+
+6. O
+Fujiwara O
+38:33.595 O
+
+7. O
+Ryo O
+38:34.682 O
+
+8. O
+Takeishi O
+38:34.999 O
+
+9. O
+Yoshikawa O
+38:35.297 O
+
+10. O
+Corser O
+38:42.015 O
+
+Fastest O
+lap O
+: O
+Aoki O
+147.786 O
+kph O
+
+World O
+championship O
+standings O
+( O
+after O
+nine O
+rounds O
+) O
+: O
+
+1. O
+Slight O
+280 O
+points O
+
+2. O
+Corser O
+269 O
+
+3. O
+Kocinski O
+254 O
+
+4. O
+Fogarty O
+236 O
+
+5. O
+Colin B-PER
+Edwards I-PER
+( O
+U.S. B-LOC
+) O
+Yamaha B-ORG
+176 O
+
+6. O
+Pier B-PER
+Francesco I-PER
+Chili I-PER
+( O
+Italy B-LOC
+) O
+Ducati B-ORG
+175 O
+
+7. O
+Simon B-PER
+Crafar I-PER
+( O
+New B-LOC
+Zealand I-LOC
+) O
+Kawasaki B-ORG
+132 O
+
+8. O
+Anthony B-PER
+Gobert I-PER
+( O
+Australia B-LOC
+) O
+Kawasaki B-ORG
+117 O
+
+9. O
+Yoshikawa O
+107 O
+
+10. O
+Neil B-PER
+Hodgson I-PER
+( O
+Britain B-LOC
+) O
+Ducati B-ORG
+82 O
+
+Revised O
+placings O
+for O
+second O
+race O
+after O
+the O
+disqualification O
+
+of O
+Japan B-LOC
+ese O
+rider O
+Noriyuki B-PER
+Haga I-PER
+for O
+using O
+an O
+illegal O
+carburettor O
+
+part O
+: O
+
+1. O
+Takuma B-PER
+Aoki I-PER
+( O
+Japan B-LOC
+) O
+Honda B-ORG
+38:18.759 O
+
+2. O
+Kocinski O
+38:19.313 O
+
+3. O
+Slight O
+38:32.149 O
+
+4. O
+Fogarty O
+38:32.719 O
+
+5. O
+Fujiwara O
+38:33.595 O
+
+6. O
+Ryo O
+38:34.682 O
+
+7. O
+Takeishi O
+38:34.999 O
+
+8. O
+Yoshikawa O
+38:35.297 O
+
+9. O
+Corser O
+38:42.015 O
+
+10. O
+Keiichi B-PER
+Kitigawa I-PER
+( O
+Japan B-LOC
+) O
+Suzuki B-ORG
+38:42.333 O
+
+Fastest O
+lap O
+: O
+Aoki O
+147.786 O
+kph O
+
+Revised O
+world O
+championship O
+standings O
+( O
+after O
+nine O
+rounds O
+) O
+: O
+
+1. O
+Slight O
+283 O
+points O
+
+2. O
+Corser O
+270 O
+
+3. O
+Kocinski O
+254 O
+
+4. O
+Fogarty O
+238 O
+
+5. O
+Colin B-PER
+Edwards I-PER
+( O
+U.S. B-LOC
+) O
+Yamaha B-ORG
+176 O
+
+6. O
+Pier B-PER
+Francesco I-PER
+Chili I-PER
+( O
+Italy B-LOC
+) O
+Ducati B-ORG
+175 O
+
+7. O
+Simon B-PER
+Crafar I-PER
+( O
+New B-LOC
+Zealand I-LOC
+) O
+Kawasaki B-ORG
+133 O
+
+8. O
+Anthony B-PER
+Gobert I-PER
+( O
+Australia B-LOC
+) O
+Kawasaki B-ORG
+117 O
+
+9. O
+Yoshikawa O
+108 O
+
+10. O
+Neil B-PER
+Hodgson I-PER
+( O
+Britain B-LOC
+) O
+Ducati B-ORG
+82 O
+

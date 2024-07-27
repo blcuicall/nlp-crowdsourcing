@@ -1,0 +1,465 @@
+
+ATHLETICS O
+- O
+LEADING O
+RESULTS O
+AT O
+SHEFFIELD B-LOC
+INTERNATIONAL O
+MEETING O
+. O
+
+SHEFFIELD B-LOC
+, O
+England B-LOC
+1996-08-25 O
+
+Leading O
+results O
+at O
+an O
+
+international O
+meeting O
+on O
+Sunday O
+: O
+
+Women O
+'s O
+triple O
+jump O
+
+1. O
+Sarka B-PER
+Kasparkova I-PER
+( O
+Czech B-LOC
+Republic I-LOC
+) O
+14.84 O
+metres O
+
+2. O
+Ashia B-PER
+Hansen I-PER
+( O
+Britain B-LOC
+) O
+14.78 O
+
+3. O
+Rodica B-PER
+Matescu I-PER
+( O
+Romania B-LOC
+) O
+14.18 O
+
+Women O
+'s O
+400 O
+metres O
+hurdles O
+
+1. O
+Deon B-PER
+Hemmings I-PER
+( O
+Jamaica B-LOC
+) O
+55.13 O
+seconds O
+
+2. O
+Anne B-PER
+Marken I-PER
+( O
+Belgium B-LOC
+) O
+55.90 O
+
+3. O
+Susan B-PER
+Smith I-PER
+( O
+Ireland B-LOC
+) O
+56.00 O
+
+Women O
+'s O
+javelin O
+
+1. O
+Isel B-PER
+Lopez I-PER
+( O
+Cuba B-LOC
+) O
+61.36 O
+
+2. O
+Louise B-PER
+McPaul I-PER
+( O
+Australia B-LOC
+) O
+60.66 O
+
+3. O
+Silke B-PER
+Renk I-PER
+( O
+Germany B-LOC
+) O
+60.66 O
+
+Women O
+'s O
+200 O
+metres O
+
+1. O
+Cathy B-PER
+Freeman I-PER
+( O
+Australia B-LOC
+) O
+22.53 O
+
+2. O
+Falilat B-PER
+Ogunkoya I-PER
+( O
+Nigeria B-LOC
+) O
+22.58 O
+
+3. O
+Juliet B-PER
+Cuthbert I-PER
+( O
+Jamaica B-LOC
+) O
+22.77 O
+
+100 O
+metres O
+hurdles O
+
+1. O
+Dionne B-PER
+Rose I-PER
+( O
+Jamaica B-LOC
+) O
+12.83 O
+
+2. O
+Michelle B-PER
+Freeman I-PER
+( O
+Jamaica B-LOC
+) O
+12.91 O
+
+3. O
+Gillian B-PER
+Russell I-PER
+( O
+Jamaica B-LOC
+) O
+12.95 O
+
+Women O
+'s O
+800 O
+metres O
+
+1. O
+Charmaine B-PER
+Crooks I-PER
+( O
+Canada B-LOC
+) O
+two O
+minutes O
+00.42 O
+seconds O
+
+2. O
+Inez B-PER
+Turner I-PER
+( O
+Jamaica B-LOC
+) O
+2:01.98 O
+
+3. O
+Margaret B-PER
+Crowley I-PER
+( O
+Australia B-LOC
+) O
+2:02.40 O
+
+Men O
+'s O
+pole O
+vault O
+
+1. O
+Trond B-PER
+Bathel I-PER
+( O
+Norway B-LOC
+) O
+5.60 O
+
+2. O
+Pat B-PER
+Manson I-PER
+( O
+U.S. B-LOC
+) O
+5.60 O
+
+3. O
+Tim B-PER
+Lobinger I-PER
+( O
+Germany B-LOC
+) O
+5.50 O
+
+Men O
+'s O
+javelin O
+
+1. O
+Tom B-PER
+Pukstys I-PER
+( O
+U.S. B-LOC
+) O
+86.82 O
+
+2. O
+Steve B-PER
+Backley I-PER
+( O
+Britain B-LOC
+) O
+82.20 O
+
+3. O
+Nick B-PER
+Nieland I-PER
+( O
+Britain B-LOC
+) O
+81.12 O
+
+Women O
+'s O
+400 O
+metres O
+
+1. O
+Marcel B-PER
+Malone I-PER
+( O
+U.S. B-LOC
+) O
+51.50 O
+
+2. O
+Kim B-PER
+Graham I-PER
+( O
+U.S. B-LOC
+) O
+52.17 O
+
+3. O
+Phylis B-PER
+Smith I-PER
+( O
+Britain B-LOC
+) O
+52.53 O
+
+Men O
+'s O
+200 O
+metres O
+
+1. O
+Jeff B-PER
+Williams I-PER
+( O
+U.S. B-LOC
+) O
+20.45 O
+
+2. O
+Doug B-PER
+Turner I-PER
+( O
+Britain B-LOC
+) O
+20.48 O
+
+3. O
+John B-PER
+Regis I-PER
+( O
+Britain B-LOC
+) O
+20.63 O
+
+Men O
+'s O
+high O
+jump O
+
+1. O
+Charles B-PER
+Austin I-PER
+( O
+U.S. B-LOC
+) O
+2.30 O
+
+2. O
+Tim B-PER
+Forsyth I-PER
+( O
+Australia B-LOC
+) O
+2.30 O
+
+3. O
+Patrik B-PER
+Sjoberg I-PER
+( O
+Sweden B-LOC
+) O
+2.25 O
+
+Men O
+'s O
+800 O
+metres O
+
+1. O
+Verbjorn B-PER
+Rodal I-PER
+( O
+Norway B-LOC
+) O
+1:44.93 O
+
+2. O
+Benson B-PER
+Koech I-PER
+( O
+Kenya B-LOC
+) O
+1:45.96 O
+
+3. O
+Vincent B-PER
+Malakwen I-PER
+( O
+Kenya B-LOC
+) O
+1:46.18 O
+
+Men O
+'s O
+mile O
+
+1. O
+William B-PER
+Tanui I-PER
+( O
+Kenya B-LOC
+) O
+3:54.57 O
+
+2. O
+John B-PER
+Mayock I-PER
+( O
+Britain B-LOC
+) O
+3:54.60 O
+
+3. O
+Tony B-PER
+Whiteman I-PER
+( O
+Britain B-LOC
+) O
+3:54.87 O
+
+Men O
+'s O
+400 O
+metres O
+
+1. O
+Roger B-PER
+Black I-PER
+( O
+Britain B-LOC
+) O
+45.05 O
+
+2. O
+Mark B-PER
+Richardson I-PER
+( O
+Britain B-LOC
+) O
+45.38 O
+
+3. O
+Derek B-PER
+Mills I-PER
+( O
+U.S. B-LOC
+) O
+45.48 O
+
+Men O
+'s O
+100 O
+metres O
+
+1. O
+Osmond B-PER
+Ezinwa I-PER
+( O
+Nigeria B-LOC
+) O
+10.06 O
+
+2. O
+Ian B-PER
+Mackie I-PER
+( O
+Britain B-LOC
+) O
+10.17 O
+
+3. O
+Linford B-PER
+Christie I-PER
+( O
+Britain B-LOC
+) O
+10.19 O
+

@@ -1,0 +1,143 @@
+
+SOCCER O
+- O
+LEADING O
+GOALSCORERS O
+IN O
+POLISH B-MISC
+FIRST O
+DIVISION O
+. O
+
+WARSAW B-LOC
+1996-08-25 O
+
+Leading O
+goalscorers O
+in O
+the O
+Polish B-MISC
+
+first O
+division O
+after O
+the O
+weekend O
+'s O
+matches O
+: O
+
+7 O
+- O
+Bogdan B-PER
+Prusek I-PER
+( O
+Sokol B-ORG
+Tychy I-ORG
+) O
+
+5 O
+- O
+Slawomir B-PER
+Wojciechowski I-PER
+( O
+GKS B-ORG
+Katowice I-ORG
+) O
+
+4 O
+- O
+Jacek B-PER
+Dembinski I-PER
+( O
+Widzew B-ORG
+Lodz I-ORG
+) O
+, O
+Marcin B-PER
+Mieciel I-PER
+
+( O
+Legia B-ORG
+Warsaw I-ORG
+) O
+, O
+Ryszard B-PER
+Wieczorek I-PER
+( O
+Odra B-ORG
+Wodzislaw I-ORG
+) O
+
+3 O
+- O
+Jacek B-PER
+Berensztain I-PER
+( O
+GKS B-ORG
+Belchatow I-ORG
+) O
+, O
+Marek B-PER
+Citko I-PER
+( O
+Widzew B-ORG
+) O
+, O
+
+Adam B-PER
+Fedoruk I-PER
+, O
+Dariusz B-PER
+Jackiewicz I-PER
+( O
+both O
+Amica B-ORG
+Wronki I-ORG
+) O
+, O
+
+Bartlomiej B-PER
+Jamroz I-PER
+( O
+Hutnik B-ORG
+Krakow I-ORG
+) O
+, O
+Tomasz B-PER
+Moskal I-PER
+
+( O
+Slask B-ORG
+Wroclaw I-ORG
+) O
+, O
+Krzysztof B-PER
+Piskula I-PER
+( O
+Lech B-ORG
+Poznan I-ORG
+) O
+, O
+Mariusz B-PER
+
+Srutwa I-PER
+( O
+Ruch B-ORG
+Chorzow I-ORG
+) O
+, O
+Emmanuel B-PER
+Tetteh I-PER
+( O
+Polonia B-ORG
+Warszawa I-ORG
+) O
+, O
+
+Krzysztof B-PER
+Zagorski I-PER
+( O
+Odra B-ORG
+) O
+

@@ -1,0 +1,236 @@
+
+SOCCER O
+- O
+RESULT O
+OF O
+GERMAN O
+FIRST O
+DIVISION O
+MATCH O
+. O
+
+BONN/LOC O
+1996-08-25 O
+
+Result O
+of O
+German O
+first O
+division O
+
+soccer O
+match O
+on O
+Sunday O
+: O
+
+MSV O
+Duisberg O
+0 O
+Bayern O
+Munich O
+4 O
+
+Bundesliga O
+standings O
+after O
+Sunday O
+'s O
+game O
+( O
+tabulate O
+under O
+
+played O
+, O
+won O
+, O
+drawn O
+, O
+lost O
+, O
+goals O
+for O
+, O
+goals O
+against O
+, O
+points O
+) O
+: O
+
+Cologne O
+3 O
+3 O
+0 O
+0 O
+7 O
+1 O
+9 O
+
+Bayern O
+Munich I-ORG
+3 O
+2 O
+1 O
+0 O
+7 O
+2 O
+7 O
+
+VfB B-ORG
+Stuttgart O
+2 O
+2 O
+0 O
+0 O
+6 O
+1 O
+6 O
+
+Borussia O
+Dortmund O
+3 O
+2 O
+0 O
+1 O
+9 O
+5 O
+6 O
+
+Hamburg O
+3 O
+2 O
+0 O
+1 O
+7 O
+3 O
+6 O
+
+Bayer O
+Leverkusen I-ORG
+3 O
+2 O
+0 O
+1 O
+7 O
+4 O
+6 O
+
+VfL O
+Bochum O
+3 O
+1 O
+2 O
+0 O
+3 O
+2 O
+5 O
+
+Karlsruhe B-ORG
+2 O
+1 O
+1 O
+0 O
+5 O
+3 O
+4 O
+
+St O
+Pauli O
+3 O
+1 O
+1 O
+1 O
+7 O
+7 O
+4 O
+
+1860 B-ORG
+Munich O
+3 O
+1 O
+0 O
+2 O
+3 O
+5 O
+3 O
+
+Freiburg O
+3 O
+1 O
+0 O
+2 O
+5 O
+10 O
+3 O
+
+Fortuna O
+Duesseldorf O
+3 O
+1 O
+0 O
+2 O
+1 O
+7 O
+3 O
+
+Hansa O
+Rostock O
+3 O
+0 O
+2 O
+1 O
+3 O
+4 O
+2 O
+
+Arminia O
+Bielefeld O
+3 O
+0 O
+2 O
+1 O
+2 O
+3 O
+2 O
+
+Borussia O
+Moenchengladbach O
+3 O
+0 O
+2 O
+1 O
+1 O
+3 O
+2 O
+
+Schalke O
+3 O
+0 O
+2 O
+1 O
+4 O
+8 O
+2 O
+
+Werder B-ORG
+Bremen O
+3 O
+0 O
+1 O
+2 O
+4 O
+6 O
+1 O
+
+MSV O
+Duisburg I-ORG
+3 O
+0 O
+0 O
+3 O
+1 O
+8 O
+0 O
+

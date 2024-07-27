@@ -1,0 +1,475 @@
+
+SOCCER O
+- O
+ENGLISH O
+LEAGUE O
+RESULTS O
+/ O
+STANDINGS O
+. O
+
+LONDON/LOC O
+1996-08-25 O
+
+Results O
+of O
+English O
+league O
+soccer O
+
+matches O
+on O
+Sunday O
+: O
+
+Premier O
+league O
+
+Manchester O
+United O
+2 O
+Blackburn O
+2 O
+
+Standings O
+( O
+( O
+tabulated O
+under O
+played O
+, O
+won O
+, O
+drawn O
+, O
+lost O
+, O
+goals O
+
+for O
+, O
+against O
+, O
+points O
+) O
+: O
+
+Sheffield B-ORG
+Wednesday O
+3 O
+3 O
+0 O
+0 O
+6 O
+2 O
+9 O
+
+Chelsea O
+3 O
+2 O
+1 O
+0 O
+3 O
+0 O
+7 O
+
+Arsenal O
+3 O
+2 O
+0 O
+1 O
+4 O
+2 O
+6 O
+
+Aston O
+Villa I-ORG
+3 O
+2 O
+0 O
+1 O
+4 O
+2 O
+6 O
+
+Manchester O
+United O
+3 O
+1 O
+2 O
+0 O
+7 O
+4 O
+5 O
+
+Sunderland B-ORG
+3 O
+1 O
+2 O
+0 O
+4 O
+1 O
+5 O
+
+Liverpool O
+3 O
+1 O
+2 O
+0 O
+5 O
+3 O
+5 O
+
+Everton O
+3 O
+1 O
+2 O
+0 O
+4 O
+2 O
+5 O
+
+Tottenham O
+3 O
+1 O
+2 O
+0 O
+3 O
+1 O
+5 O
+
+Nottingham B-ORG
+Forest I-ORG
+3 O
+1 O
+1 O
+1 O
+5 O
+5 O
+4 O
+
+West B-ORG
+Ham O
+3 O
+1 O
+1 O
+1 O
+3 O
+4 O
+4 O
+
+Leicester B-ORG
+3 O
+1 O
+1 O
+1 O
+2 O
+3 O
+4 O
+
+Newcastle O
+3 O
+1 O
+0 O
+2 O
+3 O
+4 O
+3 O
+
+Middlesbrough O
+3 O
+0 O
+2 O
+1 O
+4 O
+5 O
+2 O
+
+Derby O
+3 O
+0 O
+2 O
+1 O
+4 O
+6 O
+2 O
+
+Leeds O
+2 O
+0 O
+1 O
+1 O
+3 O
+5 O
+1 O
+
+Southampton O
+3 O
+0 O
+1 O
+2 O
+2 O
+4 O
+1 O
+
+Blackburn B-ORG
+3 O
+0 O
+1 O
+2 O
+2 O
+5 O
+1 O
+
+Coventry O
+3 O
+0 O
+1 O
+2 O
+1 O
+6 O
+1 O
+
+Wimbledon B-ORG
+2 O
+0 O
+0 O
+2 O
+0 O
+5 O
+0 O
+
+Division O
+one O
+
+Barnsley B-ORG
+3 O
+Huddersfield O
+1 O
+
+Standings O
+: O
+
+Bolton O
+3 O
+2 O
+1 O
+0 O
+5 O
+2 O
+7 O
+
+Barnsley O
+2 O
+2 O
+0 O
+0 O
+5 O
+2 O
+6 O
+
+Wolverhampton O
+2 O
+2 O
+0 O
+0 O
+4 O
+1 O
+6 O
+
+Queens O
+Park O
+Rangers I-ORG
+2 O
+2 O
+0 O
+0 O
+4 O
+2 O
+6 O
+
+Stoke O
+2 O
+2 O
+0 O
+0 O
+4 O
+2 O
+6 O
+
+Birmingham O
+2 O
+1 O
+1 O
+0 O
+5 O
+4 O
+4 O
+
+Tranmere B-ORG
+2 O
+1 O
+1 O
+0 O
+4 O
+3 O
+4 O
+
+Oxford O
+2 O
+1 O
+0 O
+1 O
+6 O
+2 O
+3 O
+
+Ipswich O
+2 O
+1 O
+0 O
+1 O
+5 O
+3 O
+3 O
+
+Bradford O
+2 O
+1 O
+0 O
+1 O
+3 O
+2 O
+3 O
+
+Crystal O
+Palace I-ORG
+2 O
+1 O
+0 O
+1 O
+3 O
+2 O
+3 O
+
+Huddersfield B-ORG
+2 O
+1 O
+0 O
+1 O
+3 O
+3 O
+3 O
+
+Norwich O
+2 O
+1 O
+0 O
+1 O
+3 O
+3 O
+3 O
+
+Reading O
+2 O
+1 O
+0 O
+1 O
+3 O
+5 O
+3 O
+
+Manchester B-ORG
+City I-ORG
+3 O
+1 O
+0 O
+2 O
+2 O
+3 O
+3 O
+
+Port O
+Vale O
+2 O
+0 O
+2 O
+0 O
+2 O
+2 O
+2 O
+
+Sheffield B-ORG
+United O
+2 O
+0 O
+1 O
+1 O
+4 O
+5 O
+1 O
+
+West O
+Bromwich O
+2 O
+0 O
+1 O
+1 O
+2 O
+3 O
+1 O
+
+Charlton B-ORG
+2 O
+0 O
+1 O
+1 O
+1 O
+3 O
+1 O
+
+Swindon O
+2 O
+0 O
+1 O
+1 O
+1 O
+3 O
+1 O
+
+Southend O
+2 O
+0 O
+1 O
+1 O
+1 O
+6 O
+1 O
+
+Grimsby O
+2 O
+0 O
+0 O
+2 O
+3 O
+6 O
+0 O
+
+Oldham B-ORG
+2 O
+0 O
+0 O
+2 O
+2 O
+5 O
+0 O
+
+Portsmouth O
+2 O
+0 O
+0 O
+2 O
+2 O
+5 O
+0 O
+

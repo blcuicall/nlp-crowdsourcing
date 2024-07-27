@@ -1,0 +1,238 @@
+
+MOTOR B-MISC
+RACING I-MISC
+- O
+BELGIAN B-MISC
+GRAND O
+PRIX O
+RESULT O
+. O
+
+SPA-FRANCORCHAMPS O
+, O
+Belgium B-LOC
+1996-08-25 O
+
+Result O
+of O
+
+Sunday O
+'s O
+Belgian B-MISC
+Grand O
+Prix O
+motor O
+race O
+: O
+
+1. O
+Michael B-PER
+Schumacher I-PER
+( O
+Germany B-LOC
+) O
+Ferrari O
+1 O
+hour O
+28 O
+minutes O
+
+15.125 O
+seconds O
+( O
+average O
+speed B-MISC
+208.442 O
+kph O
+) O
+
+2. O
+Jacques B-PER
+Villeneuve I-PER
+( O
+Canada B-LOC
+) O
+Williams B-PER
+5.602 O
+seconds O
+
+behind O
+
+3. O
+Mika B-PER
+Hakkinen I-PER
+( O
+Finland B-LOC
+) O
+McLaren B-PER
+15.710 O
+
+4. O
+Jean B-PER
+Alesi I-PER
+( O
+France B-LOC
+) O
+Benetton B-PER
+19.125 O
+
+5. O
+Damon B-PER
+Hill I-PER
+( O
+Britain B-LOC
+) O
+Williams B-PER
+29.179 O
+
+6. O
+Gerhard B-PER
+Berger I-PER
+( O
+Austria B-LOC
+) O
+Benetton B-PER
+29.896 O
+
+7. O
+Mika B-PER
+Salo I-PER
+( O
+Finland B-LOC
+) O
+Tyrrell B-PER
+1:00.754 O
+
+8. O
+Ukyo B-PER
+Katayama I-PER
+( O
+Japan B-LOC
+) O
+Tyrrell B-PER
+1:40.227 O
+
+9. O
+Ricardo B-PER
+Rosset I-PER
+( O
+Brazil B-LOC
+) O
+Arrows O
+one O
+lap O
+
+10. O
+Pedro O
+Lamy O
+( O
+Portugal B-LOC
+) O
+Minardi O
+one O
+lap O
+
+Did O
+not O
+finish O
+: O
+
+11. O
+David O
+Coulthard O
+( O
+Britain B-LOC
+) O
+McLaren B-PER
+37 O
+laps O
+completed O
+
+12. O
+Martin O
+Brundle O
+( O
+Britain B-LOC
+) O
+Jordan O
+34 O
+
+13. O
+Eddie O
+Irvine O
+( O
+Britain B-LOC
+) O
+Ferrari O
+29 O
+
+14. O
+Rubens O
+Barrichello O
+( O
+Brazil B-LOC
+) O
+Jordan O
+29 O
+
+15. O
+Pedro O
+Diniz O
+( O
+Brazil B-LOC
+) O
+Ligier O
+22 O
+
+16. O
+Jos O
+Verstappen O
+( O
+Netherland B-LOC
+) O
+Arrows O
+11 O
+
+Did O
+not O
+start O
+( O
+failed O
+to O
+complete O
+one O
+lap O
+) O
+: O
+
+Olivier O
+Panis O
+( O
+France B-LOC
+) O
+Ligier O
+
+Johnny O
+Herbert O
+( O
+Britain B-LOC
+) O
+Sauber O
+
+Heinz-Harald O
+Frentzen O
+( O
+Germany B-LOC
+) O
+Sauber O
+
+Fastest O
+lap O
+: O
+Berger O
+1:53.067 O
+( O
+221.857 O
+kph O
+) O
+

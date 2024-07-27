@@ -1,0 +1,53 @@
+
+BASKETBALL B-MISC
+- O
+PHILIPPINE B-LOC
+PRO-LEAGUE O
+RESULTS O
+. O
+
+MANILA B-PER
+1996-08-24 O
+
+Results O
+of O
+semi-final O
+round O
+games O
+on O
+Friday O
+in O
+the O
+Philippine B-LOC
+Basketball B-MISC
+Association O
+second O
+conference O
+, O
+which O
+includes O
+American B-LOC
+players O
+: O
+
+Alaska B-PER
+Milk I-PER
+beat O
+Purefoods O
+Hotdogs O
+103-95 O
+( O
+34-48 O
+half-time O
+) O
+
+Ginebra B-PER
+San I-PER
+Miguel I-PER
+beat O
+Shell O
+120-103 O
+( O
+65-56 O
+) O
+

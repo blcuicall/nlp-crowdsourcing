@@ -1,0 +1,271 @@
+
+CRICKET O
+- O
+ENGLAND B-LOC
+V O
+PAKISTAN B-LOC
+FINAL O
+TEST O
+SCOREBOARD O
+. O
+
+LONDON B-LOC
+1996-08-23 O
+
+Scoreboard O
+on O
+the O
+second O
+day O
+of O
+
+the O
+third O
+and O
+final O
+test O
+between O
+England B-LOC
+and O
+Pakistan B-LOC
+at O
+The B-LOC
+
+Oval I-LOC
+on O
+Friday O
+: O
+
+England B-LOC
+first O
+innings O
+
+M. B-PER
+Atherton I-PER
+b O
+Waqar B-PER
+Younis I-PER
+31 O
+
+A. B-PER
+Stewart I-PER
+b O
+Mushtaq B-PER
+Ahmed I-PER
+44 O
+
+N. B-PER
+Hussain I-PER
+c O
+Saeed B-PER
+Anwar I-PER
+b O
+Waqar B-PER
+Younis I-PER
+12 O
+
+G. B-PER
+Thorpe I-PER
+lbw O
+b O
+Mohammad B-PER
+Akram I-PER
+54 O
+
+J. B-PER
+Crawley I-PER
+b O
+Waqar B-PER
+Younis I-PER
+106 O
+
+N. B-PER
+Knight I-PER
+b O
+Mushtaq B-PER
+Ahmed I-PER
+17 O
+
+C. B-PER
+Lewis I-PER
+b O
+Wasim B-PER
+Akram I-PER
+5 O
+
+I. B-PER
+Salisbury I-PER
+c O
+Inzamam-ul-Haq B-PER
+b O
+Wasim B-PER
+Akram I-PER
+5 O
+
+D. B-PER
+Cork I-PER
+c O
+Moin B-PER
+Khan I-PER
+b O
+Waqar B-PER
+Younis I-PER
+0 O
+
+R. B-PER
+Croft I-PER
+not O
+out O
+5 O
+
+A. B-PER
+Mullally I-PER
+b O
+Wasim B-PER
+Akram I-PER
+24 O
+
+Extras O
+( O
+lb-12 O
+w-1 O
+nb-10 O
+) O
+23 O
+
+Total O
+326 O
+
+Fall O
+of O
+wickets O
+: O
+1-64 O
+2-85 O
+3-116 O
+4-205 O
+5-248 O
+6-273 O
+7-283 O
+
+8-284 O
+9-295 O
+
+Bowling O
+: O
+Wasim B-PER
+Akram I-PER
+29.2-9-83-3 O
+, O
+Waqar B-PER
+Younis I-PER
+25-6-95-4 O
+, O
+
+Mohammad B-PER
+Akram I-PER
+12-1-41-1 O
+, O
+Mushtaq B-PER
+Ahmed I-PER
+27-5-78-2 O
+, O
+Aamir B-PER
+Sohail I-PER
+
+6-1-17-0 O
+
+Pakistan B-LOC
+first O
+innings O
+
+Saeed B-PER
+Anwar I-PER
+not O
+out O
+116 O
+
+Aamir B-PER
+Sohail I-PER
+c O
+Cork B-PER
+b O
+Croft B-PER
+46 O
+
+Ijaz B-PER
+Ahmed I-PER
+not O
+out O
+58 O
+
+Extras O
+( O
+lb-1 O
+nb-8 O
+) O
+9 O
+
+Total O
+( O
+for O
+one O
+wicket O
+) O
+229 O
+
+Fall O
+of O
+wicket O
+- O
+1-106 O
+
+To O
+bat O
+: O
+Inzamam-ul-Haq B-PER
+, O
+Salim B-PER
+Malik I-PER
+, O
+Asif B-PER
+Mujtaba I-PER
+, O
+Wasim B-PER
+
+Akram I-PER
+, O
+Moin B-PER
+Khan I-PER
+, O
+Mushtaq B-PER
+Ahmed I-PER
+, O
+Waqar B-PER
+Younis I-PER
+, O
+Mohammad B-PER
+Akam I-PER
+
+Bowling O
+( O
+to O
+date O
+) O
+: O
+Lewis B-PER
+9-1-49-0 O
+, O
+Mullally B-PER
+9-3-28-0 O
+, O
+Croft B-PER
+
+17-3-42-1 O
+, O
+Cork B-PER
+7-1-38-0 O
+, O
+Salisbury B-PER
+14-0-71-0 O
+

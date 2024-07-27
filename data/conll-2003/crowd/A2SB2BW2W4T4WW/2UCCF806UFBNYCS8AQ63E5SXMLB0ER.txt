@@ -1,0 +1,75 @@
+
+ATHLETICS O
+- O
+MASTERKOVA B-PER
+BREAKS O
+WOMEN O
+'S O
+WORLD O
+1,000 O
+RECORD O
+. O
+
+BRUSSELS B-LOC
+ B-LOC
+1996-08-23 O
+
+Russian B-MISC
+Svetlana O
+Masterkova B-PER
+broke O
+the O
+women O
+'s O
+world O
+1,000 O
+metres O
+record O
+on O
+Friday O
+when O
+she O
+clocked O
+an O
+unofficial O
+two O
+minutes O
+28.99 O
+seconds O
+at O
+the O
+Brussels B-LOC
+ B-LOC
+grand O
+prix O
+. O
+
+The O
+previous O
+mark O
+of O
+2:29.34 O
+was O
+set O
+by O
+Mozambique B-LOC
+'s O
+Maria B-PER
+Mutola I-PER
+here O
+on O
+August O
+25 O
+last O
+year O
+. O
+
+The O
+time O
+was O
+officially O
+adjusted O
+to O
+2:28.98 O
+. O
+

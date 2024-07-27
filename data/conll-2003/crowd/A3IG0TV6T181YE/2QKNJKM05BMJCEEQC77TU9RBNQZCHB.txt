@@ -1,0 +1,63 @@
+
+SOCCER B-MISC
+- O
+KEANE B-PER
+SIGNS B-MISC
+FOUR-YEAR I-MISC
+CONTRACT I-MISC
+WITH I-MISC
+MANCHESTER B-LOC
+UNITED O
+. O
+
+LONDON B-LOC
+1996-08-22 O
+
+Ireland B-LOC
+midfielder O
+Roy O
+Keane B-PER
+has O
+signed O
+a O
+new O
+four-year O
+contract O
+with O
+English B-ORG
+league I-ORG
+and O
+F.A. B-ORG
+Cup I-ORG
+champions O
+Manchester B-LOC
+United O
+. O
+
+Roy O
+agreed O
+a O
+new O
+deal O
+before O
+last O
+night O
+'s O
+game O
+against O
+Everton B-ORG
+ B-LOC
+and O
+we O
+are O
+delighted O
+, O
+said O
+United O
+manager O
+Alex B-PER
+Ferguson I-PER
+on O
+Thursday O
+. O
+

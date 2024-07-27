@@ -1,0 +1,75 @@
+
+TENNIS O
+- O
+RESULTS O
+AT O
+HAMLET B-MISC
+CUP I-MISC
+. O
+
+COMMACK/LOC B-LOC
+, O
+New/LOC O
+York/LOC O
+1996-08-24 O
+
+Results O
+from O
+the O
+
+Waldbaum O
+Hamlet O
+Cup I-MISC
+tennis O
+tournament O
+on O
+Saturday O
+( O
+prefix O
+
+number O
+denotes O
+seeding O
+) O
+: O
+
+Semifinals O
+: O
+
+Martin O
+Damm O
+( O
+Czech/LOC O
+Republic/LOC O
+) O
+beat O
+Adrian O
+Voinea O
+( O
+Romania/LOC O
+) O
+5-7 O
+
+7-5 O
+7-5 O
+
+5 O
+- O
+Andrei O
+Medvedev O
+( O
+Ukraine/LOC O
+) O
+beat O
+Karol B-PER
+Kucera O
+( O
+Slovakia/LOC O
+) O
+7-6 O
+
+( O
+7-0 O
+) O
+6-3 O
+

@@ -1,0 +1,63 @@
+
+Fairview B-MISC
+, O
+Texas B-LOC
+, O
+$ O
+1.82 O
+million O
+deal O
+Baa1 B-ORG
+- O
+Moody O
+'s O
+. O
+
+NEW B-LOC
+YORK I-LOC
+1996-08-22 O
+
+Moody B-LOC
+'s I-LOC
+Investors I-LOC
+Service I-LOC
+- O
+
+Rating O
+Announcement O
+As O
+of O
+08/21/96 O
+. O
+
+Issuer O
+: O
+Fairview B-MISC
+Town O
+
+State O
+: O
+TX O
+
+Rating O
+: O
+Baa1 B-ORG
+
+Sale O
+Amount B-MISC
+: O
+1,820,000 O
+
+Expected O
+Sale O
+Date O
+: O
+08/27/96 O
+
+-- O
+U.S. B-ORG
+Municipal I-ORG
+Desk I-ORG
+, O
+212-859-1650 O
+

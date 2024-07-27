@@ -1,0 +1,50 @@
+
+WEATHER O
+- O
+Conditions O
+at O
+CIS B-LOC
+airports O
+- O
+August O
+23 O
+. O
+
+MOSCOW B-LOC
+1996-08-23 O
+
+No O
+closures O
+of O
+airports O
+in O
+the O
+Commonwealth B-LOC
+of I-LOC
+Independent I-LOC
+States I-LOC
+are O
+expected O
+on O
+August O
+24 O
+and O
+August O
+25 O
+, O
+the O
+Russian B-ORG
+Weather I-ORG
+Service I-ORG
+said O
+on O
+Friday O
+. O
+
+-- O
+Moscow B-ORG
+Newsroom I-ORG
++7095 O
+941 O
+8520 O
+

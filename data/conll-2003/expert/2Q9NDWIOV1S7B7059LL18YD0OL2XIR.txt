@@ -1,0 +1,108 @@
+
+TENNIS O
+- O
+RESULTS O
+AT O
+TOSHIBA B-MISC
+CLASSIC I-MISC
+. O
+
+CARLSBAD B-LOC
+, O
+California B-LOC
+1996-08-21 O
+
+Results O
+from O
+the O
+
+$ O
+450,000 O
+Toshiba B-MISC
+Classic I-MISC
+tennis O
+tournament O
+on O
+Wednesday O
+
+( O
+prefix O
+number O
+denotes O
+seeding O
+) O
+: O
+
+Second O
+round O
+
+1 O
+- O
+Arantxa B-PER
+Sanchez I-PER
+Vicario I-PER
+( O
+Spain B-LOC
+) O
+beat O
+Naoko B-PER
+Kijimuta I-PER
+( O
+Japan B-LOC
+) O
+
+1-6 O
+6-4 O
+6-3 O
+
+4 O
+- O
+Kimiko B-PER
+Date I-PER
+( O
+Japan B-LOC
+) O
+beat O
+Yone B-PER
+Kamio I-PER
+( O
+Japan B-LOC
+) O
+6-2 O
+7-5 O
+
+Sandrine B-PER
+Testud I-PER
+( O
+France B-LOC
+) O
+beat O
+7 O
+- O
+Ai B-PER
+Sugiyama I-PER
+( O
+Japan B-LOC
+) O
+6-3 O
+4-6 O
+
+6-4 O
+
+8 O
+- O
+Nathalie B-PER
+Tauziat I-PER
+( O
+France B-LOC
+) O
+beat O
+Shi-Ting B-PER
+Wang I-PER
+( O
+Taiwan B-LOC
+) O
+6-4 O
+
+6-2 O
+

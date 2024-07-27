@@ -1,0 +1,346 @@
+
+SOCCER O
+- O
+YUGOSLAV B-MISC
+LEAGUE O
+RESULTS O
+/ O
+STANDINGS O
+. O
+
+BELGRADE B-LOC
+1996-08-24 O
+
+Results O
+of O
+Yugoslav B-MISC
+league O
+
+soccer O
+matches O
+played O
+on O
+Saturday O
+: O
+
+Division O
+A O
+
+Cukaricki B-ORG
+0 O
+Hajduk B-ORG
+2 O
+
+Becej B-ORG
+2 O
+Borac B-ORG
+0 O
+
+Mladost B-ORG
+( I-ORG
+L I-ORG
+) I-ORG
+0 O
+Zemun B-ORG
+0 O
+
+Rad B-ORG
+1 O
+Buducnost B-ORG
+( I-ORG
+P I-ORG
+) I-ORG
+0 O
+
+Standings O
+( O
+tabulated O
+under O
+played O
+, O
+won O
+, O
+drawn O
+, O
+lost O
+, O
+goals O
+
+for O
+, O
+against O
+, O
+points O
+) O
+: O
+
+Becej B-ORG
+3 O
+2 O
+1 O
+0 O
+5 O
+1 O
+7 O
+
+Partizan B-ORG
+2 O
+2 O
+0 O
+0 O
+6 O
+2 O
+6 O
+
+Vojvodina B-ORG
+2 O
+2 O
+0 O
+0 O
+4 O
+1 O
+6 O
+
+Red B-ORG
+Star I-ORG
+2 O
+2 O
+0 O
+0 O
+3 O
+1 O
+6 O
+
+Mladost B-ORG
+( I-ORG
+L I-ORG
+) I-ORG
+3 O
+1 O
+1 O
+1 O
+6 O
+4 O
+4 O
+
+Rad B-ORG
+3 O
+1 O
+1 O
+1 O
+2 O
+2 O
+4 O
+
+Hajduk B-ORG
+3 O
+1 O
+0 O
+2 O
+3 O
+3 O
+3 O
+
+Cukaricki B-ORG
+3 O
+1 O
+0 O
+2 O
+5 O
+6 O
+3 O
+
+Buducnost B-ORG
+3 O
+1 O
+0 O
+2 O
+3 O
+5 O
+3 O
+
+Zemun B-ORG
+3 O
+0 O
+2 O
+1 O
+2 O
+3 O
+2 O
+
+Proleter B-ORG
+2 O
+0 O
+1 O
+1 O
+1 O
+4 O
+1 O
+
+Borac B-ORG
+3 O
+0 O
+0 O
+3 O
+0 O
+8 O
+0 O
+
+Division O
+B O
+
+Sutjeska B-ORG
+3 O
+Sloboda B-ORG
+2 O
+
+Loznica B-ORG
+0 O
+Obilic B-ORG
+1 O
+
+OFK B-ORG
+Kikinda I-ORG
+1 O
+Radnicki B-ORG
+( I-ORG
+N I-ORG
+) I-ORG
+0 O
+
+Spartak B-ORG
+1 O
+Buducnost B-ORG
+( I-ORG
+V I-ORG
+) I-ORG
+2 O
+
+OFK B-ORG
+Beograd I-ORG
+2 O
+Mladost B-ORG
+( I-ORG
+BJ I-ORG
+) I-ORG
+2 O
+
+Standings O
+: O
+
+Obilic B-ORG
+3 O
+3 O
+0 O
+0 O
+8 O
+1 O
+9 O
+
+Loznica B-ORG
+3 O
+2 O
+0 O
+1 O
+7 O
+3 O
+6 O
+
+Sutjeska B-ORG
+3 O
+2 O
+0 O
+1 O
+6 O
+3 O
+6 O
+
+OFK B-ORG
+Kikinda I-ORG
+3 O
+2 O
+0 O
+1 O
+4 O
+1 O
+6 O
+
+Buducnost B-ORG
+( I-ORG
+V I-ORG
+) I-ORG
+3 O
+2 O
+0 O
+1 O
+4 O
+3 O
+6 O
+
+Spartak B-ORG
+3 O
+1 O
+1 O
+1 O
+3 O
+3 O
+4 O
+
+Zeleznik B-ORG
+2 O
+1 O
+0 O
+1 O
+4 O
+4 O
+3 O
+
+OFK B-ORG
+Beograd I-ORG
+3 O
+0 O
+3 O
+1 O
+4 O
+4 O
+3 O
+
+Radnicki B-ORG
+3 O
+1 O
+0 O
+2 O
+5 O
+6 O
+3 O
+
+Sloboda B-ORG
+3 O
+0 O
+1 O
+2 O
+4 O
+8 O
+1 O
+
+Mladost B-ORG
+( I-ORG
+BJ I-ORG
+) I-ORG
+3 O
+0 O
+1 O
+2 O
+2 O
+6 O
+1 O
+
+Rudar B-ORG
+2 O
+0 O
+0 O
+2 O
+0 O
+6 O
+0 O
+

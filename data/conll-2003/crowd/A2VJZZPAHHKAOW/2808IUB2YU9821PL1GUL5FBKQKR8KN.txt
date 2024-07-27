@@ -1,0 +1,305 @@
+
+SOCCER O
+- O
+ROMANIAN O
+FIRST O
+DIVISION O
+RESULTS O
+/ O
+STANDINGS O
+. O
+
+BUCHAREST B-LOC
+1996-08-25 B-MISC
+
+Results O
+of O
+first O
+division O
+
+soccer O
+matches O
+played O
+over O
+the O
+weekend O
+: O
+
+A.S. B-ORG
+Bacau I-ORG
+1 O
+Ceahlaul B-ORG
+Piatra I-ORG
+Neamt I-ORG
+1 O
+
+Otelul B-ORG
+Galati I-ORG
+1 O
+F.C. B-ORG
+Arges I-ORG
+Dacia I-ORG
+Pitesti I-ORG
+0 O
+
+F.C. B-ORG
+Farul I-ORG
+Constanta I-ORG
+3 O
+Chindia B-ORG
+Tirgoviste I-ORG
+1 O
+
+Sportul B-ORG
+Studentesc I-ORG
+4 O
+Universitatea B-ORG
+Craiova I-ORG
+2 O
+
+F.C. B-ORG
+Petrolul I-ORG
+Ploiesti I-ORG
+4 O
+Politehnica B-ORG
+Timisoara I-ORG
+5 O
+
+F.C. B-ORG
+Brasov I-ORG
+1 O
+F.C. O
+National O
+Bucharest B-LOC
+1 O
+
+Jiul B-ORG
+Petrosani I-ORG
+1 O
+Dinamo O
+Bucharest B-LOC
+0 O
+
+Gloria B-ORG
+Bistrita I-ORG
+0 O
+Universitatea B-ORG
+Cluj I-ORG
+1 O
+
+Rapid O
+Bucharest B-LOC
+0 O
+Steaua O
+Bucharest B-LOC
+2 O
+
+Standings O
+( O
+tabulate O
+under O
+played O
+, O
+won O
+, O
+drawn O
+, O
+lost O
+, O
+goals O
+
+for O
+, O
+against O
+, O
+points O
+) O
+: O
+
+Dinamo O
+Bucharest B-LOC
+4 O
+3 O
+0 O
+1 O
+6 O
+2 O
+9 O
+
+Jiul B-ORG
+Petrosani I-ORG
+4 O
+3 O
+0 O
+1 O
+6 O
+4 O
+9 O
+
+F.C. B-ORG
+Farul I-ORG
+Constanta I-ORG
+4 O
+2 O
+2 O
+0 O
+6 O
+2 O
+8 O
+
+Universitatea B-ORG
+Cluj I-ORG
+4 O
+2 O
+2 O
+0 O
+6 O
+4 O
+8 O
+
+A.S. B-ORG
+Bacau I-ORG
+4 O
+2 O
+1 O
+1 O
+7 O
+3 O
+7 O
+
+Politehnica B-ORG
+Timisoara I-ORG
+4 O
+2 O
+1 O
+1 O
+11 O
+9 O
+7 O
+
+F.C. O
+National O
+Bucharest B-LOC
+4 O
+2 O
+1 O
+1 O
+7 O
+6 O
+7 O
+
+Otelul B-ORG
+Galati I-ORG
+4 O
+2 O
+0 O
+2 O
+4 O
+3 O
+6 O
+
+F.C. O
+Chindia B-ORG
+Tirgoviste I-ORG
+4 O
+2 O
+0 O
+2 O
+3 O
+4 O
+6 O
+
+Steaua O
+Bucharest B-LOC
+4 O
+2 O
+0 O
+2 O
+5 O
+7 O
+6 O
+
+F.C. B-ORG
+Arges I-ORG
+Dacia I-ORG
+Pitesti I-ORG
+4 O
+1 O
+2 O
+1 O
+4 O
+2 O
+5 O
+
+Universitatea B-ORG
+Craiova I-ORG
+4 O
+1 O
+1 O
+2 O
+8 O
+6 O
+4 O
+
+Sportul B-ORG
+Studentesc I-ORG
+4 O
+1 O
+1 O
+2 O
+7 O
+9 O
+4 O
+
+Ceahlaul B-ORG
+Piatra I-ORG
+Neamt I-ORG
+4 O
+1 O
+1 O
+2 O
+2 O
+4 O
+4 O
+
+F.C. B-ORG
+Brasov I-ORG
+4 O
+1 O
+1 O
+2 O
+6 O
+10 O
+4 O
+
+Gloria B-ORG
+Bistrita I-ORG
+4 O
+1 O
+0 O
+3 O
+3 O
+9 O
+3 O
+
+F.C. B-ORG
+Petrolul I-ORG
+Ploiesti I-ORG
+4 O
+0 O
+2 O
+2 O
+5 O
+7 O
+2 O
+
+Rapid O
+Bucharest B-LOC
+4 O
+0 O
+1 O
+3 O
+4 O
+9 O
+1 O
+

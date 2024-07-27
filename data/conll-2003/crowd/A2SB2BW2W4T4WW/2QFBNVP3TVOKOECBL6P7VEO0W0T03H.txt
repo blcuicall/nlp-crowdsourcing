@@ -1,0 +1,47 @@
+
+SOCCER O
+- O
+YUGOSLAV B-MISC
+ B-MISC
+LEAGUE O
+RESULTS O
+. O
+
+BELGRADE B-LOC
+1996-08-25 O
+
+Results O
+of O
+Yugoslav B-MISC
+ B-MISC
+league O
+
+soccer O
+matches O
+played O
+on O
+Sunday O
+: O
+
+Division O
+A O
+
+Vojvodina B-ORG
+1 O
+Partizan B-ORG
+1 O
+
+Crvena B-ORG
+zvezda I-ORG
+3 O
+Proleter B-ORG
+1 O
+
+Division O
+B O
+
+Zelesnik B-ORG
+0 O
+Rudar B-ORG
+1 O
+

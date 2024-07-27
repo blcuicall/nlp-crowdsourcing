@@ -1,0 +1,63 @@
+
+SOCCER O
+- O
+HINCHCLIFFE B-PER
+ B-PER
+CALLED O
+INTO O
+ENGLAND B-ORG
+SQUAD O
+. O
+
+LONDON B-LOC
+1996-08-25 O
+
+England B-ORG
+manager O
+Glenn B-PER
+Hoddle I-PER
+called O
+up O
+uncapped O
+Everton B-ORG
+defender O
+Andy O
+Hinchcliffe B-PER
+ B-PER
+on O
+Sunday O
+to O
+the O
+national O
+squad O
+for O
+the O
+opening O
+World B-MISC
+Cup I-MISC
+qualifier O
+against O
+Moldova B-ORG
+next O
+weekend O
+. O
+
+Left-back O
+Hinchcliffe B-PER
+ B-PER
+, O
+27 O
+, O
+replaces O
+Tottenham B-ORG
+'s O
+Darren B-PER
+Anderton I-PER
+who O
+has O
+a O
+recurring O
+groin O
+problem O
+. O
+

@@ -1,0 +1,154 @@
+
+Soccer O
+- O
+Results O
+of O
+South B-MISC
+Korean I-MISC
+pro-soccer O
+games O
+. O
+
+SEOUL B-LOC
+1996-08-22 O
+
+Results O
+of O
+South B-MISC
+Korean I-MISC
+pro-soccer O
+games O
+played O
+on O
+Wednesday O
+. O
+
+Anyang B-PER
+3 O
+Chonnam B-PER
+3 O
+( O
+halftime O
+2-0 O
+) O
+
+Puchon B-PER
+0 O
+Su O
+won B-MISC
+0 O
+( O
+halftime O
+0-0 O
+) O
+
+Standings O
+after O
+games O
+played O
+on O
+Wednesday O
+( O
+tabulate O
+under O
+- O
+won B-MISC
+, O
+drawn B-MISC
+, O
+lost B-MISC
+, O
+goals B-MISC
+for O
+, O
+goals B-MISC
+against O
+, O
+points O
+) O
+: O
+
+W O
+D O
+L O
+G O
+/ O
+F O
+G O
+/ O
+A O
+P O
+
+Puchon B-PER
+1 O
+1 O
+0 O
+1 O
+0 O
+4 O
+
+Chonan B-PER
+1 O
+0 O
+0 O
+5 O
+4 O
+3 O
+
+Anyang B-PER
+0 O
+2 O
+0 O
+5 O
+5 O
+2 O
+
+Su O
+won B-MISC
+0 O
+2 O
+0 O
+3 O
+3 O
+2 O
+
+Pohang B-PER
+0 O
+1 O
+0 O
+3 O
+3 O
+1 O
+
+Pusan B-PER
+0 O
+1 O
+0 O
+0 O
+2 O
+1 O
+
+Chonnam B-PER
+0 O
+1 O
+1 O
+5 O
+6 O
+1 O
+
+Ulsan B-PER
+0 O
+0 O
+1 O
+4 O
+5 O
+0 O
+
+Chonbuk B-PER
+0 O
+0 O
+0 O
+0 O
+0 O
+0 O
+

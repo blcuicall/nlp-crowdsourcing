@@ -1,0 +1,243 @@
+
+MOTOR B-MISC
+RACING I-MISC
+- O
+BELGIAN B-MISC
+GRAND I-MISC
+PRIX I-MISC
+GRID I-MISC
+POSITIONS O
+. O
+
+SPA- O
+FRANCORCHAMPS B-LOC
+, O
+Belgium B-LOC
+1996-08-24 O
+
+Grid O
+positions O
+
+for O
+Sunday O
+'s O
+Belgian O
+Grand O
+Prix O
+motor O
+race O
+after O
+final O
+
+qualifying O
+on O
+Saturday O
+: O
+
+1. O
+Jacques B-PER
+Villeneuve I-PER
+( O
+Canada B-LOC
+) O
+Williams B-MISC
+1 O
+minute O
+50.574 O
+
+seconds O
+( O
+average O
+speed O
+226.859 O
+kph O
+) O
+
+2. O
+Damon B-PER
+Hill I-PER
+( O
+Britain B-LOC
+) O
+Williams B-MISC
+1:50.980 O
+
+3. O
+Michael B-PER
+Schumacher I-PER
+( O
+Germany O
+) O
+Ferrari O
+1:51.778 O
+
+4. O
+David B-PER
+Coulthard I-PER
+( O
+Britain B-LOC
+) O
+McLaren O
+1:51.884 O
+
+5. O
+Gerhard B-PER
+Berger I-PER
+( O
+Austria B-LOC
+) O
+Benetton O
+1:51.960 O
+
+6. O
+Mika B-PER
+Hakkinen I-PER
+( O
+Finland B-LOC
+) O
+McLaren O
+1:52.318 O
+
+7. O
+Jean B-PER
+Alesi I-PER
+( O
+France B-LOC
+) O
+Benetton O
+1:52.354 O
+
+8. O
+Martin B-PER
+Brundle I-PER
+( O
+Britain B-LOC
+) O
+Jordan O
+1:52.977 O
+
+9. O
+Eddie B-PER
+Irvine I-PER
+( O
+Britain B-LOC
+) O
+Ferrari O
+1:53.043 O
+
+10. O
+Rubens B-PER
+Barrichello I-PER
+( O
+Brazil O
+) O
+Jordan O
+1:53.152 O
+
+Add O
+grid O
+: O
+
+11. O
+Heinz-Harald B-PER
+Frentzen I-PER
+( O
+Germany O
+) O
+Sauber O
+1:53.199 O
+
+12. O
+Johnny B-PER
+Herbert I-PER
+( O
+Britain B-LOC
+) O
+Sauber O
+1:53.993 O
+
+13. O
+Mika B-PER
+Salo I-PER
+( O
+Finland B-LOC
+) O
+Tyrrell B-MISC
+1:54.095 O
+
+14. O
+Olivier B-PER
+Panis I-PER
+( O
+France B-LOC
+) O
+Ligier B-MISC
+1:54.220 O
+
+15. O
+Pedro B-PER
+Diniz I-PER
+( O
+Brazil O
+) O
+Ligier B-MISC
+1:54.700 O
+
+16. O
+Jos B-PER
+Verstappen I-PER
+( O
+Netherlands O
+) O
+Arrows B-MISC
+1:55.150 O
+
+17. O
+Ukyo B-PER
+Katayama I-PER
+( O
+Japan O
+) O
+Tyrrell B-MISC
+1:55.371 O
+
+18. O
+Ricardo B-PER
+Rosset I-PER
+( O
+Brazil O
+) O
+Arrows B-MISC
+1:56.286 O
+
+19. O
+Pedro B-PER
+Lamy I-PER
+( O
+Portugal O
+) O
+Minardi O
+1:56.830 O
+
+Did O
+not O
+qualify O
+( O
+times O
+did O
+not O
+meet O
+qualifying O
+standard O
+) O
+: O
+
+20. O
+Giovanni B-PER
+Lavaggi I-PER
+( O
+Italy O
+) O
+Minardi O
+1:58.579 O
+

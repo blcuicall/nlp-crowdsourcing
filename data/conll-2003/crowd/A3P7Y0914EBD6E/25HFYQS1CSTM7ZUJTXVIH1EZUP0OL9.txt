@@ -1,0 +1,41 @@
+
+SOCCER B-MISC
+- O
+PORTUGUESE B-MISC
+FIRST I-MISC
+DIVISION I-MISC
+RESULTS I-MISC
+. O
+
+LISBON B-LOC
+1996-08-25 O
+
+Results O
+of O
+Portuguese O
+first O
+
+division O
+soccer B-MISC
+matches O
+on O
+Sunday B-MISC
+: O
+
+FC B-PER
+Porto I-PER
+2 O
+Setubal B-PER
+2 O
+
+Benfica B-PER
+1 O
+Braga B-PER
+1 O
+
+Guimaraes B-PER
+4 O
+Gil B-PER
+Vicente I-PER
+2 O
+

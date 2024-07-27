@@ -1,0 +1,114 @@
+
+TENNIS B-MISC
+- O
+RESULTS O
+AT O
+HAMLET B-ORG
+CUP I-ORG
+. O
+
+COMMACK B-LOC
+, O
+New B-LOC
+York I-LOC
+1996-08-21 O
+
+Results O
+from O
+the O
+
+Waldbaum O
+Hamlet B-ORG
+Cup I-ORG
+tennis B-MISC
+tournament O
+on O
+Wednesday O
+( O
+prefix O
+
+number O
+denotes O
+seeding O
+) O
+: O
+
+Second O
+round O
+
+1 O
+- O
+Michael B-PER
+Chang I-PER
+( O
+U.S. B-ORG
+ B-LOC
+) O
+beat O
+Sergi B-PER
+Bruguera I-PER
+( O
+Spain B-LOC
+) O
+6-3 O
+6-2 O
+
+Michael B-PER
+Joyce I-PER
+( O
+U.S. B-ORG
+ B-LOC
+) O
+beat O
+3 O
+- O
+Richey B-PER
+Reneberg I-PER
+( O
+U.S. B-ORG
+ B-LOC
+) O
+3-6 O
+6-4 O
+
+6-3 O
+
+Martin B-PER
+Damm I-PER
+( O
+Czech B-LOC
+Republic I-LOC
+) O
+beat O
+6 O
+- O
+Younes B-PER
+El I-PER
+Aynaoui I-PER
+
+( O
+Morocco B-LOC
+) O
+5-7 O
+6-3 O
+3-0 O
+retired O
+
+Karol B-PER
+Kucera I-PER
+( O
+Slovakia B-LOC
+) O
+beat O
+Hicham B-PER
+Arazi I-PER
+( O
+Morocco B-LOC
+) O
+7-6 O
+( O
+7-4 O
+) O
+
+7-5 O
+

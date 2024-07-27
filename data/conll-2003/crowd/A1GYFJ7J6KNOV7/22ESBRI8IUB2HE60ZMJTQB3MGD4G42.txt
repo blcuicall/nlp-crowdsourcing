@@ -1,0 +1,272 @@
+
+BADMINTON O
+- O
+MALAYSIAN O
+OPEN O
+RESULTS O
+. O
+
+KUALA/LOC B-LOC
+LUMPUR/LOC O
+1996-08-22 O
+
+Results O
+in O
+the O
+Malaysian O
+
+Open I-MISC
+badminton O
+tournament O
+on O
+Thursday O
+( O
+prefix O
+number O
+denotes O
+
+seeding O
+) O
+: O
+
+Men O
+'s O
+singles O
+, O
+third O
+round O
+
+9/16 O
+- O
+Luo O
+Yigang O
+( O
+China/LOC O
+) O
+beat O
+Hwang O
+Sun-ho O
+( O
+South/LOC O
+Korea/LOC I-LOC
+) O
+15-3 O
+
+15-7 O
+
+Jason B-PER
+Wong O
+( O
+Malaysia/LOC O
+) O
+beat O
+Abdul B-PER
+Samad O
+Ismail O
+( O
+Malaysia/LOC O
+) O
+16-18 O
+
+15-2 O
+17-14 O
+
+P. O
+Kantharoopan O
+( O
+Malaysia/LOC O
+) O
+beat O
+3/4 O
+- O
+Jeroen B-PER
+Van O
+Dijk I-PER
+
+( O
+Netherlands/LOC O
+) O
+15-11 O
+18-14 O
+
+Wijaya O
+Indra O
+( O
+Indonesia/LOC O
+) O
+beat O
+5/8 O
+- O
+Pang O
+Chen I-PER
+( O
+Malaysia/LOC O
+) O
+15-6 O
+
+6-15 O
+15-7 O
+
+3/4 O
+- O
+Hu B-PER
+Zhilan O
+( O
+China/LOC B-LOC
+) O
+beat O
+Nunung O
+Subandoro O
+( O
+Indonesia/LOC B-LOC
+) O
+5-15 O
+
+18-15 O
+15-6 O
+
+9/16 O
+- O
+Hermawan O
+Susanto O
+( O
+Indonesia/LOC B-LOC
+) O
+beat O
+1 O
+- O
+Fung O
+Permadi O
+( O
+Taiwan/LOC B-LOC
+) O
+
+15-8 O
+15-12 O
+
+Women O
+'s O
+singles O
+2nd O
+round O
+
+1 O
+- O
+Wang O
+Chen O
+( O
+China/LOC B-LOC
+) O
+beat O
+Cindana O
+( O
+Indonesia/LOC O
+) O
+11-3 O
+1ama O
+( O
+Japan/LOC B-LOC
+) O
+beat O
+Margit O
+Borg O
+( O
+Sweden/LOC O
+) O
+11-6 O
+11-6 O
+
+Sun B-PER
+Jian O
+( O
+China/LOC O
+) O
+beat O
+Marina O
+Andrievskaqya I-PER
+( O
+Sweden/LOC B-LOC
+) O
+11-8 O
+11-2 O
+
+5/8 O
+- O
+Meluawati O
+( O
+Indonesia/LOC O
+) O
+beat O
+Chan O
+Chia O
+Fong I-PER
+( O
+Malaysia/LOC O
+) O
+11-6 O
+
+11-1 O
+
+Gong O
+Zhichao O
+( O
+China/LOC O
+) O
+beat O
+Liu O
+Lufung O
+( O
+China/LOC O
+) O
+6-11 O
+11-7 O
+11-3 O
+
+Zeng O
+Yaqiong O
+( O
+China/LOC B-LOC
+) O
+beat O
+Li O
+Feng I-PER
+( O
+New/LOC O
+Zealand/LOC O
+) O
+11-9 O
+11-6 O
+
+5/8 O
+- O
+Christine O
+Magnusson O
+( O
+Sweden/LOC O
+) O
+beat O
+Ishwari B-PER
+Boopathy O
+
+( O
+Malaysia/LOC O
+) O
+11-1 O
+10-12 O
+11-4 O
+
+2 O
+- O
+Zhang O
+Ning I-PER
+( O
+China/LOC O
+) O
+beat O
+Olivia O
+( O
+Indonesia/LOC O
+) O
+11-8 O
+11-6 O
+

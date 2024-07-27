@@ -1,0 +1,56 @@
+
+Soccer O
+- O
+Nijmeh O
+beat O
+Nasr B-ORG
+1-0 O
+. O
+
+TRIPOLI/LOC O
+, O
+Lebanon/LOC B-LOC
+1996-08-24 O
+
+Nijmeh O
+of O
+Lebanon/LOC O
+beat O
+Nasr O
+of O
+Saudi/LOC O
+Arabia/LOC O
+1-0 O
+( O
+halftime O
+1-0 O
+) O
+in O
+their O
+Asian O
+club O
+championship O
+second O
+round O
+first O
+leg O
+tie O
+on O
+Saturday O
+. O
+
+Scorer O
+: O
+Issa B-PER
+Alloush O
+( O
+45th O
+minute O
+) O
+. O
+
+Attendance O
+: O
+10,000 O
+. O
+

@@ -1,0 +1,79 @@
+
+SOCCER B-MISC
+- O
+GOTHENBURG B-PER
+PUT O
+FERENCVAROS B-PER
+OUT O
+OF O
+EURO O
+CUP O
+. O
+
+BUDAPEST B-LOC
+1996-08-21 O
+
+IFK O
+Gothenburg B-PER
+of O
+Sweden B-LOC
+drew O
+1-1 O
+( O
+1-0 O
+) O
+with O
+Ferencvaros B-PER
+of O
+Hungary B-LOC
+in O
+the O
+second O
+leg O
+of O
+their O
+European B-MISC
+Champions I-MISC
+Cup I-MISC
+preliminary O
+round O
+tie O
+played O
+on O
+Wednesday O
+. O
+
+Gothenburg B-PER
+go O
+through O
+4-1 O
+on O
+aggregate O
+. O
+
+Scorers O
+: O
+
+Ferencvaros B-PER
+: O
+
+Ferenc B-PER
+Horvath I-PER
+( O
+15th O
+) O
+
+IFK O
+Gothenburg B-PER
+: O
+
+Andreas B-PER
+Andersson I-PER
+( O
+87th O
+) O
+
+Attendance O
+: O
+9,000 O
+

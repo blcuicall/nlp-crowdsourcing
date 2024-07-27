@@ -1,0 +1,30 @@
+
+SOCCER B-ORG
+- O
+PORTUGUESE B-MISC
+FIRST I-MISC
+DIVISION I-MISC
+RESULT O
+. O
+
+LISBON B-LOC
+1996-08-23 O
+
+Result O
+of O
+a O
+Portuguese O
+first O
+
+division O
+soccer B-ORG
+match O
+on O
+Friday O
+: O
+
+Espinho B-MISC
+1 O
+Sporting B-MISC
+3 O
+

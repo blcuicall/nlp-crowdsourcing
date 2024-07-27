@@ -1,0 +1,67 @@
+
+SOCCER O
+- O
+FIORENTINA O
+BEAT O
+MILAN B-ORG
+IN O
+ITALIAN O
+SUPERCUP O
+. O
+
+MILAN/LOC B-LOC
+1996-08-25 O
+
+Italian O
+Cup/B-MISC O
+winners O
+Fiorentina O
+beat O
+
+league O
+champions O
+Milan O
+2-1 O
+( O
+halftime O
+1-1 O
+) O
+in O
+the O
+pre-season O
+
+Supercoppa O
+( O
+SuperCup O
+) O
+in O
+Milan/LOC O
+on O
+Sunday O
+: O
+
+Scorers O
+: O
+
+Fiorentina O
+- O
+Gabriel O
+Batistuta O
+( O
+11th O
+, O
+83rd O
+) O
+
+Milan O
+- O
+Dejan O
+Savicevic O
+( O
+21st O
+) O
+
+Attendance O
+: O
+29,582 O
+

@@ -1,0 +1,61 @@
+
+SOCCER B-MISC
+- O
+BELGIAN B-MISC
+FIRST I-MISC
+DIVISION I-MISC
+RESULTS I-MISC
+. O
+
+BRUSSELS B-LOC
+1996-08-24 B-MISC
+
+Results O
+of O
+Belgian O
+first O
+
+division O
+matches O
+on O
+Saturday O
+: O
+
+Standard B-PER
+Liege I-PER
+3 O
+Molenbeek B-PER
+0 O
+
+Anderlecht B-PER
+2 O
+Lokeren B-PER
+2 O
+
+Cercle B-PER
+Brugge I-PER
+2 O
+Mouscron B-PER
+2 O
+
+Antwerp B-PER
+1 O
+Lommel B-PER
+4 O
+
+Ghent B-PER
+3 O
+Aalst B-PER
+2 O
+
+Lierse B-PER
+4 O
+Charleroi B-PER
+0 O
+
+Sint B-PER
+Truiden I-PER
+3 O
+Ekeren B-PER
+1 O
+

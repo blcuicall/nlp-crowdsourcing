@@ -1,0 +1,81 @@
+
+CRICKET O
+- O
+PAKISTAN B-LOC
+318-2 O
+V O
+ENGLAND B-LOC
+-- O
+LUNCH O
+. O
+
+LONDON B-LOC
+1996-08-24 O
+
+Pakistan B-LOC
+were O
+318 O
+for O
+two O
+at O
+lunch O
+on O
+the O
+third O
+day O
+of O
+the O
+third O
+and O
+final O
+test O
+at O
+The B-LOC
+Oval I-LOC
+on O
+Saturday O
+in O
+reply O
+to O
+England B-LOC
+'s O
+326 O
+all O
+out O
+. O
+
+Score O
+: O
+England B-LOC
+326 O
+( O
+J. B-PER
+Crawley I-PER
+106 O
+, O
+G. B-PER
+Thorpe I-PER
+54 O
+. O
+
+Waqar B-PER
+Younis I-PER
+4-95 O
+) O
+. O
+
+Pakistan B-LOC
+318-2 O
+( O
+Saeed B-PER
+Anwar I-PER
+169 O
+not O
+out O
+, O
+Ijaz B-PER
+Ahmed I-PER
+61 O
+) O
+. O
+

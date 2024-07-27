@@ -1,0 +1,306 @@
+
+TENNIS O
+- O
+RESULTS O
+AT O
+CANADIAN O
+OPEN I-MISC
+. O
+
+TORONTO/LOC O
+1996-08-21 O
+
+Results O
+from O
+the O
+Canadian O
+Open O
+
+tennis O
+tournament O
+on O
+Wednesday O
+( O
+prefix O
+number O
+denotes O
+
+seeding O
+) O
+: O
+
+Second O
+round O
+
+Daniel B-PER
+Nestor O
+( O
+Canada/LOC O
+) O
+beat O
+1 O
+- O
+Thomas O
+Muster I-PER
+( O
+Austria/LOC O
+) O
+6-3 O
+7-5 O
+
+Mikael B-PER
+Tillstrom O
+( O
+Sweden/LOC O
+) O
+beat O
+2 O
+- O
+Goran B-PER
+Ivanisevic O
+( O
+Croatia/LOC B-LOC
+) O
+
+6-7 O
+( O
+3-7 O
+) O
+6-4 O
+6-4 O
+
+3 O
+- O
+Wayne O
+Ferreira O
+( O
+South/LOC O
+Africa/LOC O
+) O
+beat O
+Jiri O
+Novak O
+( O
+Czech/LOC O
+
+Republic/LOC I-LOC
+) O
+7-5 O
+6-3 O
+
+4 O
+- O
+Marcelo O
+Rios O
+( O
+Chile/LOC B-LOC
+) O
+beat O
+Kenneth O
+Carlsen O
+( O
+Denmark/LOC O
+) O
+6-3 O
+6-2 O
+
+6 O
+- O
+MaliVai O
+Washington O
+( O
+U.S./LOC O
+) O
+beat O
+Alex O
+Corretja I-PER
+( O
+Spain/LOC O
+) O
+6-4 O
+
+6-2 O
+
+7 O
+- O
+Todd O
+Martin O
+( O
+U.S./LOC O
+) O
+beat O
+Renzo B-PER
+Furlan O
+( O
+Italy/LOC O
+) O
+7-6 O
+( O
+7-3 O
+) O
+6-3 O
+
+Mark O
+Philippoussis O
+( O
+Australia/LOC O
+) O
+beat O
+8 O
+- O
+Marc B-PER
+Rosset O
+
+( O
+Switzerland/LOC B-LOC
+) O
+6-3 O
+3-6 O
+7-6 O
+( O
+8-6 O
+) O
+
+9 O
+- O
+Cedric O
+Pioline O
+( O
+France/LOC O
+) O
+beat O
+Gregory O
+Carraz O
+( O
+France/LOC O
+) O
+7-6 O
+
+( O
+7-1 O
+) O
+6-4 O
+
+Patrick O
+Rafter O
+( O
+Australia/LOC O
+) O
+beat O
+11 O
+- O
+Alberto O
+Berasategui O
+
+( O
+Spain/LOC O
+) O
+6-1 O
+6-2 O
+
+Petr B-PER
+Korda O
+( O
+Czech/LOC O
+Republic/LOC O
+) O
+beat O
+12 O
+- O
+Francisco O
+Clavet I-PER
+( O
+Spain/LOC B-LOC
+) O
+
+6-3 O
+6-4 O
+
+Daniel B-PER
+Vacek O
+( O
+Czech/LOC B-LOC
+Republic/LOC O
+) O
+beat O
+13 O
+- O
+Jason O
+Stoltenberg O
+
+( O
+Australia/LOC B-LOC
+) O
+5-7 O
+7-6 O
+( O
+7-1 O
+) O
+7-6 O
+( O
+13-11 O
+) O
+
+Todd O
+Woodbridge O
+( O
+Australia/LOC B-LOC
+beat O
+Sebastien O
+Lareau O
+( O
+Canada/LOC B-LOC
+) O
+6-3 O
+
+1-6 O
+6-3 O
+
+Alex O
+O'Brien O
+( O
+U.S./LOC O
+) O
+beat O
+Byron O
+Black O
+( O
+Zimbabwe/LOC O
+) O
+7-6 O
+( O
+7-2 O
+) O
+6-2 O
+
+Bohdan B-PER
+Ulihrach O
+( O
+Czech/LOC O
+Republic/LOC O
+) O
+beat O
+Andrea O
+Gaudenzi O
+( O
+Italy/LOC O
+) O
+
+6-3 O
+4-6 O
+6-1 O
+
+Tim B-PER
+Henman O
+( O
+Britain/LOC O
+) O
+beat O
+Chris O
+Woodruff I-PER
+( O
+U.S./LOC O
+) O
+, O
+walkover O
+

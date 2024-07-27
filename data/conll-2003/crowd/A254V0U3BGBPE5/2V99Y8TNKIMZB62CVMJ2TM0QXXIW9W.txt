@@ -1,0 +1,293 @@
+
+SOCCER O
+- O
+DUTCH O
+FIRST O
+DIVISION O
+RESULTS O
+/ O
+TABLE O
+. O
+
+AMSTERDAM B-LOC
+1996-08-25 O
+
+Result O
+of O
+Dutch O
+first O
+division O
+
+soccer O
+match O
+played O
+on O
+Sunday O
+: O
+
+Feyenoord B-PER
+Rotterdam I-PER
+3 O
+Volendam B-PER
+0 O
+
+NEC B-PER
+Nijmegen I-PER
+0 O
+AZ B-PER
+Alkmaar I-PER
+0 O
+
+Vitesse B-PER
+Arnhem I-PER
+1 O
+Utrecht B-PER
+0 O
+
+Twente B-PER
+Enschede I-PER
+1 O
+Roda B-PER
+JC I-PER
+1 O
+
+PSV B-PER
+Eindhoven I-PER
+4 O
+Groningen B-PER
+1 O
+
+Played O
+on O
+Saturday O
+: O
+
+Graafschap B-PER
+Doetinchem I-PER
+3 O
+RKC B-PER
+Waalwijk I-PER
+2 O
+
+Willem B-PER
+II I-PER
+Tilburg I-PER
+0 O
+Fortuna B-PER
+Sittard I-PER
+1 O
+
+NAC B-PER
+Breda I-PER
+1 O
+Sparta B-PER
+Rotterdam I-PER
+0 O
+
+Heerenveen B-PER
+2 O
+Ajax O
+Amsterdam B-LOC
+0 O
+
+Standings O
+( O
+tabulate O
+under O
+played O
+, O
+won O
+, O
+drawn O
+, O
+lost O
+, O
+goals O
+
+for O
+, O
+goals O
+against O
+, O
+points O
+) O
+: O
+
+PSV B-PER
+Eindhoven I-PER
+2 O
+2 O
+0 O
+0 O
+8 O
+2 O
+6 O
+
+Vitesse B-PER
+Arnhem I-PER
+2 O
+2 O
+0 O
+0 O
+3 O
+0 O
+6 O
+
+Feyenoord B-PER
+Rotterdam I-PER
+2 O
+1 O
+1 O
+0 O
+4 O
+1 O
+4 O
+
+Graafschap B-PER
+Doetinchem I-PER
+2 O
+1 O
+1 O
+0 O
+4 O
+3 O
+4 O
+
+Twente B-PER
+Enschede I-PER
+2 O
+1 O
+1 O
+0 O
+4 O
+2 O
+4 O
+
+Fortuna B-PER
+Sittard I-PER
+2 O
+1 O
+1 O
+0 O
+1 O
+0 O
+4 O
+
+Heerenveen B-PER
+2 O
+1 O
+0 O
+1 O
+3 O
+3 O
+3 O
+
+NAC B-PER
+Breda I-PER
+2 O
+1 O
+0 O
+1 O
+1 O
+1 O
+3 O
+
+Ajax O
+Amsterdam B-LOC
+2 O
+1 O
+0 O
+1 O
+1 O
+2 O
+3 O
+
+Roda B-PER
+JC I-PER
+Kerkrade O
+2 O
+0 O
+2 O
+0 O
+2 O
+2 O
+2 O
+
+Utrecht B-PER
+2 O
+0 O
+1 O
+1 O
+2 O
+3 O
+1 O
+
+RKC B-PER
+Waalwijk I-PER
+2 O
+0 O
+1 O
+1 O
+4 O
+5 O
+1 O
+
+Sparta B-PER
+Rotterdam I-PER
+2 O
+0 O
+1 O
+1 O
+0 O
+1 O
+1 O
+
+Willem B-PER
+II I-PER
+Tilburg I-PER
+2 O
+0 O
+1 O
+1 O
+0 O
+1 O
+1 O
+
+AZ B-PER
+Alkmaar I-PER
+2 O
+0 O
+1 O
+1 O
+0 O
+2 O
+1 O
+
+Volendam B-PER
+2 O
+0 O
+1 O
+1 O
+1 O
+4 O
+1 O
+
+Groningen B-PER
+2 O
+0 O
+1 O
+1 O
+1 O
+4 O
+1 O
+
+NEC B-PER
+Nijmegen I-PER
+2 O
+0 O
+1 O
+1 O
+1 O
+4 O
+1 O
+

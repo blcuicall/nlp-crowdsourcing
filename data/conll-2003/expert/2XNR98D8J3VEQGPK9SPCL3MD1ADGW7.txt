@@ -1,0 +1,86 @@
+
+TENNIS O
+- O
+RESULTS O
+AT O
+HAMLET B-MISC
+CUP I-MISC
+. O
+
+COMMACK B-LOC
+, O
+New B-LOC
+York I-LOC
+1996-08-24 O
+
+Results O
+at O
+the O
+Hamlet O
+
+Cup B-MISC
+tennis O
+tournament O
+on O
+Sunday O
+( O
+prefix O
+number O
+denotes O
+
+seedings O
+: O
+
+Finals O
+, O
+singles O
+
+5 O
+- O
+Andrei B-PER
+Medvedev I-PER
+( O
+Ukraine B-LOC
+) O
+beat O
+Martin B-PER
+Damm I-PER
+( O
+Czech B-LOC
+
+Republic I-LOC
+) O
+7-5 O
+6-3 O
+
+Finals O
+, O
+doubles O
+
+Luke B-PER
+Jensen I-PER
+and O
+Murphy B-PER
+Jensen I-PER
+( O
+U.S. B-LOC
+) O
+beat O
+Alexander B-PER
+Volkov I-PER
+
+( O
+Russia B-LOC
+) O
+and O
+Handrik B-PER
+Dreekmann I-PER
+( O
+Germany B-LOC
+) O
+6-3 O
+7-6 O
+( O
+7-5 O
+) O
+

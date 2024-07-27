@@ -1,0 +1,37 @@
+
+SOCCER O
+- O
+FRENCH B-MISC
+ B-MISC
+LEAGUE O
+SUMMARY O
+. O
+
+PARIS B-LOC
+1996-08-23 O
+
+Summary O
+of O
+a O
+French B-MISC
+ B-MISC
+first O
+division O
+match O
+on O
+Friday O
+. O
+
+Nancy B-ORG
+0 O
+Paris B-LOC
+St O
+Germain O
+0 O
+. O
+
+Attendance O
+: O
+15,000 O
+. O
+

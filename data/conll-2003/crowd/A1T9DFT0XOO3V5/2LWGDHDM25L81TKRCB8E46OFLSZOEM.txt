@@ -1,0 +1,284 @@
+
+SOCCER B-MISC
+- O
+RESULTS O
+OF O
+GERMAN B-LOC
+FIRST O
+DIVISION O
+MATCHES B-MISC
+. I-MISC
+
+BONN B-LOC
+1996-08-24 O
+
+Results O
+of O
+German B-LOC
+first O
+division O
+
+soccer B-MISC
+matches O
+played O
+on O
+Saturday O
+: O
+
+Bochum B-PER
+1 O
+Arminia B-LOC
+Bielefeld O
+1 O
+
+Borussia O
+Moenchengladbach O
+1 O
+Karlsruhe O
+3 O
+
+Stuttgart O
+2 O
+Werder O
+Bremen B-PER
+1 O
+
+1860 O
+Munich B-LOC
+1 O
+Borussia O
+Dortmund B-PER
+3 O
+
+Bayer B-PER
+Leverkusen I-PER
+0 O
+Fortuna O
+Duesseldorf B-PER
+1 O
+
+Freiburg O
+1 O
+Cologne B-PER
+3 O
+
+Played O
+on O
+Saturday O
+: O
+
+St O
+Pauli O
+4 O
+Schalke O
+4 O
+
+Hansa O
+Rostock B-PER
+0 O
+Hamburg O
+1 O
+
+Bundesliga O
+standings O
+after O
+Saturday O
+'s O
+games O
+( O
+tabulate O
+under O
+
+played O
+, O
+won B-MISC
+, O
+drawn B-MISC
+, O
+lost B-MISC
+, O
+goals B-MISC
+for I-MISC
+, O
+goals B-MISC
+against I-MISC
+, O
+points B-MISC
+) O
+: O
+
+Cologne B-PER
+3 O
+3 O
+0 O
+0 O
+7 O
+1 O
+9 O
+
+VfB O
+Stuttgart O
+2 O
+2 O
+0 O
+0 O
+6 O
+1 O
+6 O
+
+Borussia O
+Dortmund B-PER
+3 O
+2 O
+0 O
+1 O
+9 O
+5 O
+6 O
+
+Hamburg O
+3 O
+2 O
+0 O
+1 O
+7 O
+3 O
+6 O
+
+Bayer B-PER
+Leverkusen I-PER
+3 O
+2 O
+0 O
+1 O
+7 O
+4 O
+6 O
+
+VfL O
+Bochum B-PER
+3 O
+1 O
+2 O
+0 O
+3 O
+2 O
+5 O
+
+Karlsruhe O
+2 O
+1 O
+1 O
+0 O
+5 O
+3 O
+4 O
+
+Bayern O
+Munich B-LOC
+2 O
+1 O
+1 O
+0 O
+3 O
+2 O
+4 O
+
+St O
+Pauli O
+3 O
+1 O
+1 O
+1 O
+7 O
+7 O
+4 O
+
+1860 O
+Munich B-LOC
+3 O
+1 O
+0 O
+2 O
+3 O
+5 O
+3 O
+
+Freiburg O
+3 O
+1 O
+0 O
+2 O
+5 O
+10 O
+3 O
+
+Fortuna O
+Duesseldorf B-PER
+3 O
+1 O
+0 O
+2 O
+1 O
+7 O
+3 O
+
+Hansa O
+Rostock B-PER
+3 O
+0 O
+2 O
+1 O
+3 O
+4 O
+2 O
+
+Arminia B-LOC
+Bielefeld O
+3 O
+0 O
+2 O
+1 O
+2 O
+3 O
+2 O
+
+Borussia O
+Moenchengladbach O
+3 O
+0 O
+2 O
+1 O
+1 O
+3 O
+2 O
+
+Schalke O
+3 O
+0 O
+2 O
+1 O
+4 O
+8 O
+2 O
+
+Werder O
+Bremen B-PER
+3 O
+0 O
+1 O
+2 O
+4 O
+6 O
+1 O
+
+MSV O
+Duisburg O
+2 O
+0 O
+0 O
+2 O
+1 O
+4 O
+0 O
+

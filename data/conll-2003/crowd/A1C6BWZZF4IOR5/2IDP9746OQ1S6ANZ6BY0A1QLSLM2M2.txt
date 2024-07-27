@@ -1,0 +1,77 @@
+
+Greek O
+socialists O
+give O
+PM O
+green O
+light O
+for O
+election O
+. O
+
+ATHENS/LOC B-LOC
+1996-08-22 O
+
+The O
+Greek B-MISC
+socialist O
+party O
+'s O
+executive O
+bureau O
+gave O
+Prime O
+Minister O
+Costas O
+Simitis O
+its O
+backing O
+if O
+he O
+chooses O
+to O
+call O
+snap O
+elections O
+, O
+its O
+general O
+secretary O
+Costas O
+Skandalidis I-PER
+told O
+reporters O
+on O
+Thursday O
+. O
+
+Prime O
+Minister O
+Costas O
+Simitis O
+will O
+make O
+an O
+official O
+announcement O
+after O
+a O
+cabinet O
+meeting O
+later O
+on O
+Thursday O
+, O
+said O
+Skandalidis O
+. O
+
+-- O
+Dimitris O
+Kontogiannis O
+, O
+Athens O
+Newsroom I-ORG
++301 O
+3311812-4 O
+

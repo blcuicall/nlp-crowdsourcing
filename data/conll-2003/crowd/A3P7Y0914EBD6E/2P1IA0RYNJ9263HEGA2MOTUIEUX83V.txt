@@ -1,0 +1,228 @@
+
+CRICKET B-MISC
+- O
+ENGLISH B-ORG
+COUNTY I-ORG
+CHAMPIONSHIP I-ORG
+SCORES O
+. O
+
+LONDON B-LOC
+1996-08-22 B-MISC
+
+Close O
+of O
+play O
+scores O
+in O
+four-day O
+
+English O
+County B-MISC
+Championship O
+cricket B-MISC
+matches O
+on O
+Thursday O
+: O
+
+Second O
+day O
+
+At O
+Weston-super-Mare B-LOC
+: O
+Durham B-PER
+326 O
+( O
+D. B-PER
+Cox I-PER
+95 O
+not O
+out O
+, O
+
+S. B-PER
+Campbell I-PER
+69 O
+; O
+G. B-PER
+Rose I-PER
+7-73 O
+) O
+. O
+
+Somerset B-PER
+236-4 O
+( O
+M. B-PER
+Lathwell I-PER
+85 O
+) O
+. O
+
+Firsy O
+day O
+
+At O
+Colchester B-LOC
+: O
+Gloucestershire B-PER
+280 O
+( O
+J. B-PER
+Russell I-PER
+63 O
+, O
+A. B-PER
+Symonds I-PER
+
+52 O
+; O
+A. O
+Cowan O
+5-68 O
+) O
+. O
+
+Essex B-PER
+72-0 O
+. O
+
+At O
+Cardiff O
+: O
+Kent B-PER
+128-1 O
+( O
+M. B-PER
+Walker I-PER
+59 O
+, O
+D. B-PER
+Fulton I-PER
+53 O
+not O
+out O
+) O
+v O
+
+Glamorgan B-PER
+. O
+
+At O
+Leicester B-LOC
+: O
+Leicester B-LOC
+shire O
+343-8 O
+( O
+P. O
+Simmons O
+108 O
+, O
+P. O
+Nixon O
+
+67 O
+not O
+out O
+) O
+v O
+Hampshire O
+. O
+
+At O
+Northampton O
+: O
+Sussex O
+368-7 O
+( O
+N. B-PER
+Lenham I-PER
+145 O
+, O
+V. B-PER
+Drakes I-PER
+59 O
+not O
+
+out O
+, O
+A. B-PER
+Wells I-PER
+51 O
+) O
+v O
+Northamptonshire O
+. O
+
+At O
+Trent B-LOC
+Bridge I-LOC
+: O
+Nottinghamshire O
+392-6 O
+( O
+G. O
+Archer O
+143 O
+not O
+
+out O
+, O
+M. O
+Dowman O
+107 O
+) O
+v O
+Surrey O
+. O
+
+At O
+Worcester B-LOC
+: O
+Warwickshire B-PER
+255-9 O
+( O
+A. B-PER
+Giles I-PER
+57 O
+not O
+out O
+, O
+W. B-PER
+Khan I-PER
+
+52 O
+) O
+v O
+Worcester B-LOC
+shire O
+. O
+
+At O
+Headingley B-LOC
+: O
+Yorkshire B-PER
+305-5 O
+( O
+C. B-PER
+White I-PER
+66 O
+not O
+out O
+, O
+M. B-PER
+Moxon I-PER
+
+66 O
+, O
+M. B-PER
+Vaughan I-PER
+57 O
+) O
+v O
+Lancashire B-PER
+. O
+

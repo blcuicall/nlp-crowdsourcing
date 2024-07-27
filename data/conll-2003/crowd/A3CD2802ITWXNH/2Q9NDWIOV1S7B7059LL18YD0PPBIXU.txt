@@ -1,0 +1,172 @@
+
+RUGBY B-ORG
+LEAGUE I-ORG
+- O
+EUROPEAN O
+SUPER O
+LEAGUE O
+RESULTS O
+/ O
+STANDINGS O
+. O
+
+LONDON B-LOC
+1996-08-24 O
+
+Results O
+of O
+European O
+Super O
+League O
+
+rugby B-ORG
+league I-ORG
+matches O
+on O
+Saturday O
+: O
+
+Paris B-LOC
+14 O
+Bradford B-LOC
+27 O
+
+Wigan B-PER
+ B-LOC
+78 O
+Workington O
+4 O
+
+Standings O
+( O
+tabulated O
+under O
+played O
+, O
+won O
+, O
+drawn O
+, O
+lost O
+, O
+points O
+
+for O
+, O
+against O
+, O
+total O
+points O
+) O
+: O
+
+Wigan B-PER
+ B-LOC
+22 O
+19 O
+1 O
+2 O
+902 O
+326 O
+39 O
+
+St O
+Helens O
+21 O
+19 O
+0 O
+2 O
+884 O
+441 O
+38 O
+
+Bradford B-LOC
+22 O
+17 O
+0 O
+5 O
+767 O
+409 O
+34 O
+
+Warrington B-LOC
+21 O
+12 O
+0 O
+9 O
+555 O
+499 O
+24 O
+
+London B-LOC
+21 O
+11 O
+1 O
+9 O
+555 O
+462 O
+23 O
+
+Sheffield O
+21 O
+10 O
+0 O
+11 O
+574 O
+696 O
+20 O
+
+Halifax O
+21 O
+9 O
+1 O
+11 O
+603 O
+552 O
+19 O
+
+Castleford O
+21 O
+9 O
+0 O
+12 O
+548 O
+543 O
+18 O
+
+Oldham O
+21 O
+8 O
+1 O
+12 O
+439 O
+656 O
+17 O
+
+Leeds O
+21 O
+6 O
+0 O
+15 O
+531 O
+681 O
+12 O
+
+Paris B-LOC
+22 O
+3 O
+1 O
+18 O
+398 O
+795 O
+7 O
+
+Workington O
+22 O
+2 O
+1 O
+19 O
+325 O
+1021 O
+5 O
+

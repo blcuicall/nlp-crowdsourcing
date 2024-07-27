@@ -1,0 +1,106 @@
+
+BASEBALL B-ORG
+- I-ORG
+MAJOR I-ORG
+LEAGUE I-ORG
+RESULTS O
+THURSDAY O
+. O
+
+NEW B-LOC
+YORK I-LOC
+1996-08-23 O
+
+Results O
+of O
+Major O
+League O
+
+Baseball O
+games O
+played O
+on O
+Thursday O
+( O
+home O
+team O
+in O
+CAPS O
+) O
+: O
+
+American O
+League O
+
+BOSTON O
+2 O
+Oakland O
+1 O
+
+Seattle O
+10 O
+BALTIMORE O
+3 O
+
+California B-LOC
+12 O
+NEW B-LOC
+YORK I-LOC
+3 O
+
+Toronto O
+1 O
+CHICAGO O
+0 O
+( O
+in O
+6 O
+1/2 O
+) O
+
+Detroit O
+10 O
+KANSAS O
+CITY O
+3 O
+
+Texas O
+11 O
+MINNESOTA O
+2 O
+
+National O
+League O
+
+COLORADO O
+10 O
+St O
+Louis O
+5 O
+
+Cincinnati O
+3 O
+ATLANTA O
+2 O
+( O
+in O
+13 O
+) O
+
+Pittsburgh B-MISC
+8 I-MISC
+HOUSTON O
+6 O
+
+LOS B-LOC
+ANGELES I-LOC
+8 O
+Philadelphia O
+5 O
+
+Montreal O
+5 O
+SAN O
+FRANCISCO O
+4 O
+

@@ -1,0 +1,93 @@
+
+Alpha B-ORG
+Techs O
+closes O
+Lockhart O
+purchase O
+. O
+
+NEW/LOC B-LOC
+YORK/LOC O
+1996-08-23 O
+
+Alpha O
+Technologies O
+Group I-ORG
+Inc O
+said O
+it O
+had O
+closed O
+on O
+its O
+agreement O
+to O
+acquire O
+Lockhart O
+Industries O
+Inc O
+. O
+
+The O
+company O
+said O
+in O
+a O
+statement O
+late O
+on O
+Thursday O
+that O
+it O
+issued O
+280,556 O
+shares O
+of O
+common O
+stock O
+for O
+the O
+stock O
+of O
+Lockhart O
+. O
+
+These O
+shares O
+are O
+subject O
+to O
+post-closing O
+adjustments O
+. O
+
+Lockhart B-ORG
+, O
+based O
+in O
+Paramount/LOC O
+, O
+Calif./LOC O
+, O
+is O
+a O
+designer O
+and O
+manufacturer O
+of O
+sophisticated O
+thermal O
+management O
+products O
+. O
+
+-- O
+New/LOC O
+York/LOC I-LOC
+newsroom O
+, O
+( O
+212 O
+) O
+859-1610 O
+

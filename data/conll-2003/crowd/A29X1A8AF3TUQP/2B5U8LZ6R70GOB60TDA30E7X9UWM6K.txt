@@ -1,0 +1,150 @@
+
+BASEBALL O
+- O
+RESULTS O
+OF O
+S. O
+KOREAN O
+PRO-BASEBALL O
+GAMES O
+. O
+
+SEOUL O
+1996-08-25 O
+
+Results O
+of O
+South B-MISC
+Korean I-MISC
+
+pro-baseball O
+games O
+played O
+on O
+Saturday O
+. O
+
+Haitai B-MISC
+10 O
+Hanwha B-MISC
+4 O
+
+Hyundai B-MISC
+5 O
+Samsung B-MISC
+4 O
+
+Ssangbangwool B-MISC
+4 O
+LG O
+1 O
+
+OB O
+1 O
+Lotte B-MISC
+1 O
+
+Lotte B-MISC
+1 O
+OB O
+0* O
+
+*Note O
+- O
+OB O
+and O
+Lotte B-MISC
+played O
+two O
+games O
+. O
+
+Standings O
+after O
+games O
+played O
+on O
+Saturday O
+( O
+won O
+, O
+drawn O
+, O
+lost O
+, O
+
+winning O
+percentage O
+, O
+games O
+behind O
+first O
+place O
+) O
+
+W O
+D O
+L O
+PCT O
+GB O
+
+Haitai B-MISC
+63 O
+2 O
+40 O
+.610 O
+- O
+
+Ssangbangwool B-MISC
+57 O
+2 O
+47 O
+.547 O
+6 O
+1/2 O
+
+Hyundai B-MISC
+55 O
+5 O
+47 O
+.537 O
+7 O
+1/2 O
+
+Hanwha B-MISC
+55 O
+1 O
+48 O
+.534 O
+8 O
+
+Samsung B-MISC
+47 O
+5 O
+54 O
+.467 O
+15 O
+
+Lotte B-MISC
+44 O
+6 O
+52 O
+.461 O
+15 O
+1/2 O
+
+LG O
+44 O
+5 O
+57 O
+.439 O
+18 O
+
+OB O
+40 O
+6 O
+60 O
+.406 O
+21 O
+1/2 O
+

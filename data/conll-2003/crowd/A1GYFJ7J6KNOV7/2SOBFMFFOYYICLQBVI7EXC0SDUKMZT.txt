@@ -1,0 +1,290 @@
+
+CRICKET O
+- O
+ENGLISH O
+COUNTY O
+CHAMPIONSHIP O
+SCORES O
+. O
+
+LONDON/LOC B-LOC
+1996-08-23 O
+
+Close O
+of O
+play O
+scores O
+in O
+four-day O
+
+English B-MISC
+County O
+Championship O
+cricket O
+matches O
+on O
+Friday O
+: O
+
+Third O
+day O
+
+At O
+Weston-super-Mare/LOC O
+: O
+Durham O
+326 O
+( O
+D. O
+Cox O
+95 O
+not O
+out O
+, O
+
+S. O
+Campbell O
+69 O
+; O
+G. O
+Rose O
+7-73 O
+) O
+. O
+
+Somerset B-ORG
+298-6 O
+( O
+M. O
+Lathwell O
+85 O
+, O
+
+R. O
+Harden I-PER
+65 O
+) O
+. O
+
+Second O
+day O
+
+At O
+Colchester/LOC B-LOC
+: O
+Gloucestershire O
+280 O
+( O
+J. O
+Russell O
+63 O
+, O
+A. O
+Symonds O
+
+52 O
+; O
+A. O
+Cowan I-PER
+5-68 O
+) O
+. O
+
+Essex O
+194-0 O
+( O
+G. O
+Gooch O
+105 O
+not O
+out O
+, O
+D. O
+Robinson I-PER
+
+72 O
+not O
+out O
+) O
+. O
+
+At O
+Cardiff/LOC B-LOC
+: O
+Kent O
+255-3 O
+( O
+D. O
+Fulton O
+64 O
+, O
+M. B-PER
+Walker I-PER
+59 O
+, O
+C. O
+Hooper O
+
+52 O
+not O
+out O
+) O
+v O
+Glamorgan O
+. O
+
+At O
+Leicester/LOC O
+: O
+Leicestershire O
+343-8 O
+( O
+P. O
+Simmons O
+108 O
+, O
+P. O
+Nixon O
+
+67 O
+not O
+out O
+) O
+v O
+Hampshire O
+. O
+
+At O
+Northampton/LOC O
+: O
+Sussex B-ORG
+389 O
+( O
+N. B-PER
+Lenham O
+145 O
+, O
+V. O
+Drakes O
+59 O
+, O
+
+A. B-PER
+Wells O
+51 O
+; O
+A. O
+Penberthy I-PER
+4-36 O
+) O
+. O
+
+Northamptonshire O
+160-4 O
+( O
+K. B-PER
+Curran O
+
+79 O
+not O
+out O
+) O
+. O
+
+At O
+Trent/LOC O
+Bridge/LOC O
+: O
+Nottinghamshire O
+392-6 O
+( O
+G. O
+Archer I-PER
+143 O
+not O
+
+out O
+, O
+M. B-PER
+Dowman O
+107 O
+) O
+v O
+Surrey O
+. O
+
+At O
+Worcester/LOC O
+: O
+Warwickshire B-ORG
+310 O
+( O
+A. O
+Giles I-PER
+83 O
+, O
+T. O
+Munton I-PER
+54 O
+not O
+
+out O
+, O
+W. O
+Khan O
+52 O
+; O
+R. O
+Illingworth O
+4-54 O
+, O
+S. O
+Lampitt I-PER
+4-90 O
+) O
+. O
+
+Worcestershire O
+10-0 O
+. O
+
+At O
+Headingley/LOC O
+: O
+Yorkshire O
+529-8 O
+declared O
+( O
+C. O
+White O
+181 O
+, O
+
+R. O
+Blakey O
+109 O
+not O
+out O
+, O
+M. O
+Moxon O
+66 O
+, O
+M. B-PER
+Vaughan I-PER
+57 O
+) O
+. O
+
+Lancashire O
+
+162-4 O
+( O
+N. O
+Fairbrother O
+53 O
+not O
+out O
+) O
+. O
+

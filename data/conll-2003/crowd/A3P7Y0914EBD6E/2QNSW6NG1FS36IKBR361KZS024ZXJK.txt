@@ -1,0 +1,226 @@
+
+SOCCER B-MISC
+- O
+FRENCH B-MISC
+LEAGUE I-MISC
+STANDINGS I-MISC
+. O
+
+PARIS B-LOC
+1996-08-24 O
+
+Standings O
+in O
+the O
+French O
+soccer B-MISC
+
+league O
+after O
+Saturday O
+'s O
+matches O
+( O
+tabulate O
+under O
+played O
+, O
+won O
+, O
+
+drawn O
+, O
+lost O
+, O
+goals O
+for O
+, O
+goals O
+against O
+, O
+points O
+) O
+: O
+
+Lens B-PER
+3 O
+3 O
+0 O
+0 O
+6 O
+1 O
+9 O
+
+Bastia B-PER
+3 O
+2 O
+1 O
+0 O
+4 O
+1 O
+7 O
+
+Paris B-LOC
+Saint-Germain O
+3 O
+2 O
+1 O
+0 O
+3 O
+0 O
+7 O
+
+Auxerre B-PER
+3 O
+2 O
+1 O
+0 O
+3 O
+0 O
+7 O
+
+Cannes B-PER
+3 O
+2 O
+1 O
+0 O
+4 O
+2 O
+7 O
+
+Lille B-PER
+3 O
+2 O
+0 O
+1 O
+4 O
+3 O
+6 O
+
+Bordeaux B-PER
+3 O
+1 O
+2 O
+0 O
+2 O
+1 O
+5 O
+
+Monaco B-PER
+3 O
+1 O
+1 O
+1 O
+5 O
+3 O
+4 O
+
+Marseille B-PER
+3 O
+1 O
+1 O
+1 O
+5 O
+4 O
+4 O
+
+Metz B-PER
+3 O
+1 O
+1 O
+1 O
+3 O
+3 O
+4 O
+
+Lyon O
+3 O
+1 O
+1 O
+1 O
+4 O
+4 O
+4 O
+
+Guingamp B-PER
+3 O
+1 O
+1 O
+1 O
+2 O
+2 O
+4 O
+
+Rennes B-PER
+3 O
+1 O
+0 O
+2 O
+4 O
+6 O
+3 O
+
+Strasbourg B-PER
+3 O
+1 O
+0 O
+2 O
+1 O
+3 O
+3 O
+
+Montpellier B-PER
+3 O
+0 O
+2 O
+1 O
+1 O
+2 O
+2 O
+
+Nantes B-PER
+3 O
+0 O
+1 O
+2 O
+2 O
+5 O
+1 O
+
+Nancy B-PER
+3 O
+0 O
+1 O
+2 O
+2 O
+5 O
+1 O
+
+Nice B-PER
+3 O
+0 O
+1 O
+2 O
+2 O
+5 O
+1 O
+
+Le B-PER
+Havre I-PER
+3 O
+0 O
+1 O
+1 O
+1 O
+3 O
+1 O
+
+Caen B-PER
+3 O
+0 O
+1 O
+2 O
+1 O
+5 O
+1 O
+

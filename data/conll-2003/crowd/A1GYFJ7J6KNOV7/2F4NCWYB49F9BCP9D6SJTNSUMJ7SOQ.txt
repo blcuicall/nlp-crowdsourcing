@@ -1,0 +1,170 @@
+
+SOCCER O
+- O
+SUMMARIES O
+OF O
+GERMAN B-MISC
+FIRST O
+DIVISION O
+MATCHES O
+. O
+
+BONN/LOC B-LOC
+1996-08-24 O
+
+Summaries O
+of O
+German O
+first O
+division O
+
+matches O
+played O
+on O
+Saturday O
+: O
+
+Bochum O
+1 O
+( O
+Jack O
+66th O
+minute O
+) O
+Arminia O
+Bielefeld O
+1 O
+( O
+Molata O
+59th O
+) O
+. O
+
+Halftime O
+0-0 O
+. O
+
+Attendance O
+25,000 O
+
+Borussia O
+Moenchengladbach O
+1 O
+( O
+Andersson O
+22nd O
+) O
+Karlsruhe O
+3 O
+
+( O
+Haessler O
+33rd O
+, O
+Dundee O
+45th O
+, O
+Keller O
+90th O
+) O
+. O
+
+1-2 O
+. O
+
+20,000 O
+
+Stuttgart O
+2 O
+( O
+Balakow O
+50th O
+, O
+Bobic O
+61st O
+) O
+Werder O
+Bremen O
+1 O
+( O
+Votava B-PER
+
+68th O
+) O
+. O
+
+0-0 O
+. O
+
+32,000 O
+
+1860 B-ORG
+Munich I-ORG
+1 O
+( O
+Schwabl O
+38th O
+) O
+Borussia O
+Dortmund O
+3 O
+( O
+Zorc O
+
+59th-pen O
+, O
+Moeller B-PER
+73rd O
+, O
+Heinrich O
+90th O
+) O
+. O
+
+1-0 O
+. O
+
+50,000 O
+
+Bayer B-ORG
+Leverkusen O
+0 O
+Fortuna O
+Duesseldorf O
+1 O
+( O
+Seeliger O
+47th O
+) O
+. O
+
+0-0 O
+. O
+
+18,000 O
+
+Freiburg O
+1 O
+( O
+Zeyer B-PER
+52nd O
+) O
+Cologne O
+3 O
+( O
+Gaissmayer O
+9th O
+, O
+Polster B-PER
+
+86th O
+, O
+90th O
+) O
+. O
+
+0-1 O
+. O
+
+22,500 O
+

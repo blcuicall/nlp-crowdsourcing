@@ -1,0 +1,123 @@
+
+RUGBY B-ORG
+UNION I-ORG
+- O
+NEW O
+ZEALAND O
+DEFEAT O
+SOUTH O
+AFRICA O
+33-26 O
+. O
+
+PRETORIA B-LOC
+, O
+South O
+Africa O
+1996-08-24 O
+
+New O
+Zealand O
+beat O
+South O
+Africa O
+33-26 O
+( O
+halftime B-MISC
+21-11 O
+) O
+in O
+the O
+second O
+test O
+on O
+Saturday O
+. O
+
+Scorer B-MISC
+s O
+: O
+
+South O
+Africa O
+- O
+Tries O
+: O
+Hannes B-PER
+Strydom I-PER
+, O
+Ruben B-PER
+Kruger I-PER
+, O
+Joost B-PER
+van I-PER
+der I-PER
+Westhuizen I-PER
+. O
+
+Penalties B-MISC
+: O
+Joel O
+Stranksy O
+( O
+3 O
+) O
+. O
+
+Conversion B-MISC
+: O
+Stranksy O
+. O
+
+New O
+Zealand O
+- O
+Tries O
+: O
+Jeff B-PER
+Wilson I-PER
+( O
+2 O
+) O
+, O
+Zinzan B-PER
+Brooke I-PER
+. O
+
+Penalties B-MISC
+: O
+Simon B-PER
+Culhane I-PER
+, O
+Jon B-PER
+Preston I-PER
+( O
+2 O
+) O
+. O
+
+Conversion B-MISC
+s O
+: O
+Culhane O
+( O
+3 O
+) O
+. O
+
+Drop B-MISC
+goal I-MISC
+: O
+Zinzan B-PER
+Brooke I-PER
+. O
+
+New O
+Zealand O
+lead O
+the O
+three-test O
+series O
+2-0 O
+. O
+

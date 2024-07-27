@@ -1,0 +1,123 @@
+
+HORSE B-MISC
+RACING I-MISC
+- O
+NUNTHORPE B-MISC
+STAKES I-MISC
+RESULTS O
+. O
+
+YORK B-LOC
+, O
+England B-LOC
+1996-08-22 O
+
+Result O
+of O
+the O
+Nunthorpe B-MISC
+Stakes I-MISC
+, O
+a O
+group O
+one O
+race O
+for O
+two-year-olds O
+and O
+upwards O
+, O
+run O
+over O
+five O
+furlongs O
+( O
+1 O
+km O
+) O
+on O
+Thursday O
+: O
+
+1. O
+Pivotal B-PER
+100-30 O
+( O
+ridden O
+by O
+George B-PER
+Duffield I-PER
+) O
+
+2. O
+Eveningperformance B-PER
+16-1 O
+( O
+Chris B-PER
+Rutter I-PER
+) O
+
+3. O
+Hever B-PER
+Golf I-PER
+Rose I-PER
+11-4 O
+( O
+Jason B-PER
+Weaver I-PER
+) O
+
+Eight O
+ran O
+. O
+
+Favourite O
+: O
+Mind O
+Games O
+( O
+7-4 O
+) O
+finished O
+4th O
+
+Distances O
+: O
+a O
+short O
+head O
+, O
+1-1/4 O
+lengths O
+. O
+
+Winner O
+owned O
+by O
+the O
+Cheveley O
+Park O
+Stud O
+and O
+trained O
+by O
+Sir O
+
+Mark B-PER
+Prescott I-PER
+at O
+Newmarket O
+. O
+
+Value O
+to O
+winner O
+: O
+72,464 O
+pounds O
+sterling O
+( O
+$ O
+112,200 O
+) O
+

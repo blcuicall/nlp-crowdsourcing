@@ -1,0 +1,317 @@
+
+SOCCER O
+- O
+ENGLISH O
+LEAGUE O
+RESULTS O
+. O
+
+LONDON O
+1996-08-24 O
+
+Results O
+of O
+English B-ORG
+league I-ORG
+soccer I-ORG
+
+matches O
+on O
+Saturday O
+: O
+
+Premier O
+league O
+
+Aston B-LOC
+Villa I-LOC
+2 O
+Derby O
+0 O
+
+Chelsea O
+2 O
+Coventry O
+0 O
+
+Leicester B-LOC
+0 O
+Arsenal O
+2 O
+
+Liverpool B-LOC
+0 O
+Sunderland B-LOC
+0 O
+
+Newcastle O
+1 O
+Sheffield O
+Wednesday O
+2 O
+
+Nottingham B-LOC
+Forest I-LOC
+1 O
+Middlesbrough B-LOC
+1 O
+
+Tottenham B-LOC
+0 O
+Everton B-LOC
+0 O
+
+West B-LOC
+Ham I-LOC
+2 O
+Southampton B-LOC
+1 O
+
+Playing O
+Sunday O
+: O
+
+Man O
+chester B-LOC
+ B-LOC
+United I-LOC
+v O
+Bla B-LOC
+ckburn B-LOC
+
+Playing O
+Monday O
+: O
+
+Leeds O
+v O
+Wimbledon O
+
+Division O
+one O
+
+Bolton B-LOC
+3 O
+Norwich B-LOC
+1 O
+
+Charlton O
+1 O
+West O
+Bromwich O
+1 O
+
+Crystal B-LOC
+Palace I-LOC
+3 O
+Oldham O
+1 O
+
+Ipswich O
+5 O
+Reading O
+2 O
+
+Oxford B-LOC
+5 O
+Southend B-LOC
+0 O
+
+Sheffield B-LOC
+United I-LOC
+4 O
+Birmingham B-LOC
+4 O
+
+Stoke O
+2 O
+Man O
+chester B-LOC
+ B-LOC
+City I-LOC
+1 O
+
+Swindon B-LOC
+1 O
+Port B-LOC
+Vale I-LOC
+1 O
+
+Wolverhampton B-LOC
+1 O
+Bradford B-LOC
+0 O
+
+Played O
+Friday O
+: O
+
+Portsmouth B-LOC
+1 O
+Queen B-ORG
+'s I-ORG
+Park I-ORG
+Rangers I-ORG
+2 O
+
+Tranmere B-LOC
+3 O
+Grimsby B-LOC
+2 O
+
+Playing O
+Sunday O
+: O
+
+Barnsley B-LOC
+v O
+Huddersfield B-LOC
+
+Division O
+two O
+
+Brentford B-LOC
+3 O
+Luton B-LOC
+2 O
+
+Bristol B-LOC
+City I-LOC
+v O
+Bla B-LOC
+ckpool B-LOC
+ B-LOC
+late O
+kickoff O
+
+Burnley O
+2 O
+Walsall B-LOC
+1 O
+
+Chester B-LOC
+field B-LOC
+1 O
+Bury B-LOC
+2 O
+
+Peterborough B-LOC
+2 O
+Crewe B-LOC
+2 O
+
+Preston B-LOC
+0 O
+Bristol B-LOC
+Rovers I-LOC
+0 O
+
+Rotherham B-LOC
+1 O
+Shrews O
+bury B-LOC
+2 O
+
+Stockport B-LOC
+0 O
+Notts B-LOC
+County I-LOC
+0 O
+
+Watford B-LOC
+0 O
+Millwall B-LOC
+2 O
+
+Wrexham B-LOC
+4 O
+Plymouth B-LOC
+4 O
+
+Wycombe B-LOC
+1 O
+Gillingham B-LOC
+1 O
+
+York O
+1 O
+Bournemouth B-LOC
+2 O
+
+Division O
+three O
+
+Barnet B-LOC
+1 O
+Wigan B-LOC
+1 O
+
+Cardiff B-LOC
+1 O
+Brighton B-LOC
+0 O
+
+Carlisle B-LOC
+0 O
+Hull B-LOC
+0 O
+
+Chester B-LOC
+1 O
+Cambridge B-LOC
+1 O
+
+Darlington B-LOC
+4 O
+Swansea B-LOC
+1 O
+
+Exeter B-LOC
+2 O
+Scarborough B-LOC
+2 O
+
+Hartlepool B-LOC
+2 O
+Fulham B-LOC
+1 O
+
+Hereford B-LOC
+1 O
+Doncaster B-LOC
+0 O
+
+Lincoln B-LOC
+1 O
+Leyton B-LOC
+Orient I-LOC
+1 O
+
+Northampton B-LOC
+3 O
+Mansfield B-LOC
+0 O
+
+Rochdale B-LOC
+0 O
+Col O
+chester B-LOC
+0 O
+
+Scunthorpe B-LOC
+1 O
+Torquay B-LOC
+0 O
+
+Add O
+Division O
+two O
+
+Bristol B-LOC
+City I-LOC
+0 O
+Bla B-LOC
+ckpool B-LOC
+ B-LOC
+1 O
+

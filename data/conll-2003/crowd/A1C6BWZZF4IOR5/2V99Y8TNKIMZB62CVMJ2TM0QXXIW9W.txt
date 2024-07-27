@@ -1,0 +1,293 @@
+
+SOCCER O
+- O
+DUTCH B-MISC
+FIRST O
+DIVISION O
+RESULTS O
+/ O
+TABLE O
+. O
+
+AMSTERDAM/LOC O
+1996-08-25 O
+
+Result O
+of O
+Dutch O
+first O
+division O
+
+soccer O
+match O
+played O
+on O
+Sunday O
+: O
+
+Feyenoord B-ORG
+Rotterdam O
+3 O
+Volendam O
+0 O
+
+NEC O
+Nijmegen O
+0 O
+AZ O
+Alkmaar O
+0 O
+
+Vitesse O
+Arnhem I-ORG
+1 O
+Utrecht O
+0 O
+
+Twente O
+Enschede O
+1 O
+Roda O
+JC O
+1 O
+
+PSV O
+Eindhoven I-ORG
+4 O
+Groningen O
+1 O
+
+Played O
+on O
+Saturday O
+: O
+
+Graafschap O
+Doetinchem I-ORG
+3 O
+RKC B-ORG
+Waalwijk I-ORG
+2 O
+
+Willem O
+II O
+Tilburg O
+0 O
+Fortuna O
+Sittard O
+1 O
+
+NAC B-ORG
+Breda I-ORG
+1 O
+Sparta O
+Rotterdam O
+0 O
+
+Heerenveen O
+2 O
+Ajax B-ORG
+Amsterdam O
+0 O
+
+Standings O
+( O
+tabulate O
+under O
+played O
+, O
+won O
+, O
+drawn O
+, O
+lost O
+, O
+goals O
+
+for O
+, O
+goals O
+against O
+, O
+points O
+) O
+: O
+
+PSV O
+Eindhoven I-ORG
+2 O
+2 O
+0 O
+0 O
+8 O
+2 O
+6 O
+
+Vitesse B-ORG
+Arnhem O
+2 O
+2 O
+0 O
+0 O
+3 O
+0 O
+6 O
+
+Feyenoord O
+Rotterdam O
+2 O
+1 O
+1 O
+0 O
+4 O
+1 O
+4 O
+
+Graafschap O
+Doetinchem O
+2 O
+1 O
+1 O
+0 O
+4 O
+3 O
+4 O
+
+Twente O
+Enschede I-ORG
+2 O
+1 O
+1 O
+0 O
+4 O
+2 O
+4 O
+
+Fortuna O
+Sittard I-ORG
+2 O
+1 O
+1 O
+0 O
+1 O
+0 O
+4 O
+
+Heerenveen O
+2 O
+1 O
+0 O
+1 O
+3 O
+3 O
+3 O
+
+NAC O
+Breda O
+2 O
+1 O
+0 O
+1 O
+1 O
+1 O
+3 O
+
+Ajax O
+Amsterdam O
+2 O
+1 O
+0 O
+1 O
+1 O
+2 O
+3 O
+
+Roda B-ORG
+JC O
+Kerkrade O
+2 O
+0 O
+2 O
+0 O
+2 O
+2 O
+2 O
+
+Utrecht B-ORG
+2 O
+0 O
+1 O
+1 O
+2 O
+3 O
+1 O
+
+RKC B-ORG
+Waalwijk O
+2 O
+0 O
+1 O
+1 O
+4 O
+5 O
+1 O
+
+Sparta B-ORG
+Rotterdam O
+2 O
+0 O
+1 O
+1 O
+0 O
+1 O
+1 O
+
+Willem O
+II O
+Tilburg O
+2 O
+0 O
+1 O
+1 O
+0 O
+1 O
+1 O
+
+AZ O
+Alkmaar O
+2 O
+0 O
+1 O
+1 O
+0 O
+2 O
+1 O
+
+Volendam O
+2 O
+0 O
+1 O
+1 O
+1 O
+4 O
+1 O
+
+Groningen O
+2 O
+0 O
+1 O
+1 O
+1 O
+4 O
+1 O
+
+NEC O
+Nijmegen O
+2 O
+0 O
+1 O
+1 O
+1 O
+4 O
+1 O
+

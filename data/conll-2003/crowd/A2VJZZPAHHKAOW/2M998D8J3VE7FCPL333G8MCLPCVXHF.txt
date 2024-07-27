@@ -1,0 +1,358 @@
+
+CRICKET O
+- O
+ENGLISH B-MISC
+COUNTY O
+CHAMPIONSHIP O
+SCORES O
+. O
+
+LONDON O
+1996-08-24 B-MISC
+
+Close O
+of O
+play O
+scores O
+in O
+four-day O
+
+English B-MISC
+County O
+Championship O
+cricket O
+matches O
+on O
+Saturday B-MISC
+: O
+
+Final O
+day O
+
+At O
+Weston-super-Mare B-LOC
+: O
+Match O
+abandoned O
+as O
+a O
+draw O
+- O
+rain O
+. O
+
+Durham B-ORG
+326 O
+( O
+D. O
+Cox O
+95 O
+not O
+out O
+, O
+S. O
+Campbell O
+69 O
+; O
+G. O
+Rose O
+7-73 O
+) O
+. O
+
+Somerset B-ORG
+298-6 O
+( O
+M. O
+Lathwell O
+85 O
+, O
+R. O
+Harden O
+65 O
+) O
+. O
+
+Somerset B-ORG
+9 O
+points O
+, O
+
+Durham B-ORG
+8 O
+. O
+
+Third O
+day O
+
+At O
+Colchester B-LOC
+: O
+Gloucestershire B-ORG
+280 O
+and O
+27-4 O
+. O
+
+Essex B-ORG
+532-8 O
+
+declared O
+( O
+G. O
+Gooch O
+111 O
+, O
+R. O
+Irani O
+91 O
+, O
+P. O
+Prichard O
+88 O
+, O
+D. O
+Robinson O
+72 O
+; O
+
+M. O
+Alleyne O
+4-80 O
+) O
+. O
+
+At O
+Cardiff B-LOC
+: O
+Kent B-ORG
+255-3 O
+( O
+D. O
+Fulton O
+64 O
+, O
+M. O
+Walker O
+59 O
+, O
+C. O
+Hooper O
+
+52 O
+not O
+out O
+) O
+v O
+Glamorgan B-ORG
+. O
+
+No O
+play O
+- O
+rain O
+. O
+
+At O
+Leicester B-LOC
+: O
+Leicester B-LOC
+shire O
+353 O
+( O
+P. O
+Simmons O
+108 O
+, O
+P. O
+Nixon O
+67 O
+; O
+
+S. O
+Renshaw O
+4-56 O
+, O
+J. O
+Bovill O
+4-102 O
+) O
+. O
+
+Hampshire B-ORG
+81-7 O
+. O
+
+At O
+Northampton B-LOC
+: O
+Sussex B-ORG
+389 O
+and O
+112 O
+( O
+C. O
+Ambrose O
+6-26 O
+) O
+. O
+
+Northampton B-LOC
+shire O
+361 O
+( O
+K. O
+Curran O
+117 O
+, O
+D. O
+Ripley O
+66 O
+not O
+out O
+) O
+and O
+
+42-3 O
+. O
+
+At O
+Trent B-LOC
+Bridge I-LOC
+: O
+Nottinghamshire B-ORG
+446-9 O
+declared O
+( O
+G. O
+Archer O
+
+143 O
+, O
+M. O
+Dowman O
+107 O
+, O
+W. O
+Noon O
+57 O
+; O
+B. O
+Julian O
+4-104 O
+) O
+. O
+
+Surrey B-ORG
+128-4 O
+
+( O
+A. O
+Brown O
+56 O
+not O
+out O
+) O
+. O
+
+At O
+Worcester B-LOC
+: O
+Warwickshire B-ORG
+310 O
+( O
+A. O
+Giles O
+83 O
+, O
+T. O
+Munton O
+54 O
+not O
+
+out O
+, O
+W. O
+Khan O
+52 O
+; O
+R. O
+Illingworth O
+4-54 O
+, O
+S. O
+Lampitt O
+4-90 O
+) O
+. O
+
+Worcester B-LOC
+shire O
+205-9 O
+( O
+K. O
+Spiring O
+52 O
+) O
+. O
+
+At O
+Headingley B-LOC
+: O
+Yorkshire B-ORG
+529-8 O
+declared O
+( O
+C. O
+White O
+181 O
+, O
+
+R. O
+Blakey O
+109 O
+not O
+out O
+, O
+M. O
+Moxon O
+66 O
+, O
+M. O
+Vaughan O
+57 O
+) O
+. O
+
+Lancashire B-ORG
+323 O
+
+( O
+N. O
+Fairbrother O
+86 O
+, O
+M. O
+Watkinson O
+64 O
+; O
+D. O
+Gough O
+4-53 O
+) O
+and O
+210-5 O
+
+( O
+N. O
+Speak O
+65 O
+not O
+out O
+, O
+N. O
+Fairbrother O
+55 O
+) O
+. O
+

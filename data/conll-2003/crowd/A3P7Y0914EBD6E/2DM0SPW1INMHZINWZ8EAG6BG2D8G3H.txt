@@ -1,0 +1,36 @@
+
+Port B-MISC
+conditions O
+update O
+- O
+Syria B-LOC
+- O
+Lloyds B-ORG
+Shipping I-ORG
+. O
+
+Port B-MISC
+conditions O
+from O
+Lloyds B-ORG
+Shipping I-ORG
+Intelligence O
+Service O
+-- O
+
+LATTAKIA B-LOC
+, O
+Aug B-MISC
+10 I-MISC
+- O
+waiting O
+time O
+at O
+Lattakia B-LOC
+and O
+Tartous B-LOC
+presently O
+24 O
+hours O
+. O
+

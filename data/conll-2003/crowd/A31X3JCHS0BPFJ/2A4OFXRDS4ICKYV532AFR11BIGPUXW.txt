@@ -1,0 +1,284 @@
+
+GOLF O
+- O
+GERMAN B-MISC
+OPEN O
+FIRST O
+ROUND O
+SCORES O
+. O
+
+STUTTGART B-LOC
+, O
+German B-MISC
+y B-LOC
+1996-08-22 O
+
+Leading O
+first O
+round O
+
+scores O
+in O
+the O
+German B-MISC
+Open O
+golf O
+championship O
+on O
+Thursday O
+( O
+Britain B-LOC
+
+unless O
+stated O
+) O
+: O
+
+62 O
+Paul B-PER
+Broadhurst I-PER
+
+63 O
+Raymond B-PER
+Russell I-PER
+
+64 O
+David B-PER
+J. I-PER
+Russell I-PER
+, O
+Michael B-PER
+Campbell I-PER
+( O
+New B-LOC
+Zealand I-LOC
+) O
+, O
+Ian O
+
+Woosnam O
+, O
+Bernhard B-PER
+Langer I-PER
+( O
+German B-MISC
+y B-LOC
+) O
+, O
+Ronan B-PER
+Rafferty I-PER
+, O
+Mats O
+
+Lanner O
+( O
+Sweden B-LOC
+) O
+, O
+Wayne B-PER
+Riley I-PER
+( O
+Australia B-LOC
+) O
+
+65 O
+Eamonn B-PER
+Darcy I-PER
+( O
+Ireland B-LOC
+) O
+, O
+Per B-PER
+Nyman I-PER
+( O
+Sweden B-LOC
+) O
+, O
+Russell B-PER
+Claydon I-PER
+, O
+
+Mark B-PER
+Roe I-PER
+, O
+Retief B-PER
+Goosen I-PER
+( O
+South B-LOC
+Africa I-LOC
+) O
+, O
+Carl B-PER
+Suneson I-PER
+
+66 O
+Stephen B-PER
+Field I-PER
+, O
+Paul B-PER
+Lawrie I-PER
+, O
+Ian B-PER
+Pyman I-PER
+, O
+Max B-PER
+Anglert I-PER
+
+( O
+Sweden B-LOC
+) O
+, O
+Miles B-PER
+Tunnicliff I-PER
+, O
+Christian B-PER
+Cevaer I-PER
+( O
+France B-LOC
+) O
+, O
+
+Des B-PER
+Smyth I-PER
+( O
+Ireland B-LOC
+) O
+, O
+David B-PER
+Carter I-PER
+, O
+Lee B-PER
+Westwood I-PER
+, O
+Greg O
+
+Chalmers O
+( O
+Australia B-LOC
+) O
+, O
+Miguel B-PER
+Angel I-PER
+Martin I-PER
+( O
+Spain B-LOC
+) O
+, O
+
+Thomas B-PER
+Bjorn I-PER
+( O
+Denmark B-LOC
+) O
+, O
+Fernando B-PER
+Roca I-PER
+( O
+Spain B-LOC
+) O
+, O
+Derrick O
+
+Cooper O
+
+67 O
+Jeff B-PER
+Hawksworth I-PER
+, O
+Padraig B-PER
+Harrington I-PER
+( O
+Ireland B-LOC
+) O
+, O
+Michael O
+
+Welch O
+, O
+Thomas B-PER
+Gogele I-PER
+( O
+German B-MISC
+y B-LOC
+) O
+, O
+Paul B-PER
+McGinley I-PER
+( O
+Ireland B-LOC
+) O
+, O
+
+Gary B-PER
+Orr I-PER
+, O
+Jose-Maria B-PER
+Canizares I-PER
+( O
+Spain B-LOC
+) O
+, O
+Michael B-PER
+Jonzon I-PER
+
+( O
+Sweden B-LOC
+) O
+, O
+Paul B-PER
+Eales I-PER
+, O
+David B-PER
+Williams I-PER
+, O
+Andrew B-PER
+Coltart I-PER
+, O
+
+Jonathan B-PER
+Lomas I-PER
+, O
+Jose B-PER
+Rivero I-PER
+( O
+Spain B-LOC
+) O
+, O
+Robert B-PER
+Karlsson I-PER
+
+( O
+Sweden B-LOC
+) O
+, O
+Marcus B-PER
+Wills I-PER
+, O
+Pedro B-PER
+Linhart I-PER
+( O
+Spain B-LOC
+) O
+, O
+Jamie O
+
+Spence O
+, O
+Terry B-PER
+Price I-PER
+( O
+Australia B-LOC
+) O
+, O
+Juan B-PER
+Carlos I-PER
+Pinero I-PER
+( O
+Spain B-LOC
+) O
+, O
+
+Mark B-PER
+Mouland I-PER
+

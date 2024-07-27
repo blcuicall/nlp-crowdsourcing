@@ -1,0 +1,284 @@
+
+SOCCER B-MISC
+- O
+RESULTS B-MISC
+OF I-MISC
+GERMAN I-MISC
+FIRST I-MISC
+DIVISION I-MISC
+MATCHES O
+. O
+
+BONN B-LOC
+1996-08-24 O
+
+Results B-MISC
+of I-MISC
+German I-MISC
+first I-MISC
+division I-MISC
+
+soccer B-MISC
+matches O
+played O
+on O
+Saturday B-MISC
+: O
+
+Bochum B-PER
+1 O
+Arminia B-PER
+Bielefeld I-PER
+1 O
+
+Borussia B-PER
+Moenchengladbach I-PER
+1 O
+Karlsruhe B-PER
+3 O
+
+Stuttgart B-PER
+2 O
+Werder B-PER
+Bremen I-PER
+1 O
+
+1860 O
+Munich B-PER
+1 O
+Borussia B-PER
+Dortmund I-PER
+3 O
+
+Bayer B-PER
+Leverkusen I-PER
+0 O
+Fortuna B-PER
+Duesseldorf I-PER
+1 O
+
+Freiburg B-PER
+1 O
+Cologne B-PER
+3 O
+
+Played O
+on O
+Saturday B-MISC
+: O
+
+St B-PER
+Pauli I-PER
+4 O
+Schalke B-PER
+4 O
+
+Hansa B-PER
+Rostock I-PER
+0 O
+Hamburg O
+1 O
+
+Bundesliga O
+standings O
+after O
+Saturday B-MISC
+'s O
+games O
+( O
+tabulate O
+under O
+
+played O
+, O
+won O
+, O
+drawn O
+, O
+lost O
+, O
+goals O
+for O
+, O
+goals O
+against O
+, O
+points O
+) O
+: O
+
+Cologne B-PER
+3 O
+3 O
+0 O
+0 O
+7 O
+1 O
+9 O
+
+VfB O
+Stuttgart B-PER
+2 O
+2 O
+0 O
+0 O
+6 O
+1 O
+6 O
+
+Borussia B-PER
+Dortmund I-PER
+3 O
+2 O
+0 O
+1 O
+9 O
+5 O
+6 O
+
+Hamburg O
+3 O
+2 O
+0 O
+1 O
+7 O
+3 O
+6 O
+
+Bayer B-PER
+Leverkusen I-PER
+3 O
+2 O
+0 O
+1 O
+7 O
+4 O
+6 O
+
+VfL O
+Bochum B-PER
+3 O
+1 O
+2 O
+0 O
+3 O
+2 O
+5 O
+
+Karlsruhe B-PER
+2 O
+1 O
+1 O
+0 O
+5 O
+3 O
+4 O
+
+Bayern O
+Munich B-PER
+2 O
+1 O
+1 O
+0 O
+3 O
+2 O
+4 O
+
+St B-PER
+Pauli I-PER
+3 O
+1 O
+1 O
+1 O
+7 O
+7 O
+4 O
+
+1860 O
+Munich B-PER
+3 O
+1 O
+0 O
+2 O
+3 O
+5 O
+3 O
+
+Freiburg B-PER
+3 O
+1 O
+0 O
+2 O
+5 O
+10 O
+3 O
+
+Fortuna B-PER
+Duesseldorf I-PER
+3 O
+1 O
+0 O
+2 O
+1 O
+7 O
+3 O
+
+Hansa B-PER
+Rostock I-PER
+3 O
+0 O
+2 O
+1 O
+3 O
+4 O
+2 O
+
+Arminia B-PER
+Bielefeld I-PER
+3 O
+0 O
+2 O
+1 O
+2 O
+3 O
+2 O
+
+Borussia B-PER
+Moenchengladbach I-PER
+3 O
+0 O
+2 O
+1 O
+1 O
+3 O
+2 O
+
+Schalke B-PER
+3 O
+0 O
+2 O
+1 O
+4 O
+8 O
+2 O
+
+Werder B-PER
+Bremen I-PER
+3 O
+0 O
+1 O
+2 O
+4 O
+6 O
+1 O
+
+MSV O
+Duisburg O
+2 O
+0 O
+0 O
+2 O
+1 O
+4 O
+0 O
+

@@ -1,0 +1,188 @@
+
+CYCLING O
+- O
+SWISS O
+GRAND B-MISC
+PRIX O
+RESULT O
+. O
+
+ZURICH B-LOC
+1996-08-25 O
+
+Leading O
+results O
+in O
+the O
+232-km O
+
+Swiss B-MISC
+Grand I-MISC
+Prix I-MISC
+World I-MISC
+Cup I-MISC
+cycling I-MISC
+race I-MISC
+on O
+Sunday O
+: O
+
+1. O
+Andrea B-PER
+Ferrigato I-PER
+( O
+Italy B-LOC
+) O
+5 O
+hours O
+51 O
+minutes O
+52 O
+seconds O
+
+2. O
+Michele B-PER
+Bartoli I-PER
+( O
+Italy B-LOC
+) O
+
+3. O
+Johan B-PER
+Museeuw I-PER
+( O
+Belgium B-LOC
+) O
+
+4. O
+Lance B-PER
+Armstrong I-PER
+( O
+U.S. B-LOC
+) O
+
+5. O
+Francesco O
+Casagrande O
+( O
+Italy B-LOC
+) O
+
+6. O
+Alessandro B-PER
+Baronti I-PER
+( O
+Italy B-LOC
+) O
+
+7. O
+Frank B-PER
+Vandenbroucke I-PER
+( O
+Belgium B-LOC
+) O
+all O
+same O
+time O
+
+8. O
+Fabio B-PER
+Baldato I-PER
+( O
+Italy B-LOC
+) O
+11 O
+seconds O
+behind O
+
+9. O
+Maurizio B-PER
+Fondriest I-PER
+( O
+Italy B-LOC
+) O
+
+10. O
+Laurent B-PER
+Jalabert I-PER
+( O
+France B-LOC
+) O
+both O
+same O
+time O
+
+Leading O
+World O
+Cup O
+standings O
+( O
+after O
+8 O
+of O
+11 O
+rounds O
+) O
+: O
+
+1. O
+Museeuw O
+162 O
+points O
+
+2. O
+Ferrigato O
+112 O
+
+3. O
+Bartoli O
+108 O
+
+4. O
+Stefano B-PER
+Zanini I-PER
+( O
+Italy B-LOC
+) O
+88 O
+
+5. O
+Armstrong O
+81 O
+
+6. O
+Baldato O
+77 O
+
+7. O
+Alexandre B-PER
+Gontchenkov I-PER
+( O
+Ukraine B-LOC
+) O
+67 O
+
+8. O
+Gabriele B-PER
+Colombo I-PER
+( O
+Italy B-LOC
+) O
+58 O
+
+9. O
+Andrei B-PER
+Tchmil I-PER
+( O
+Ukraine B-LOC
+) O
+56 O
+
+10. O
+Max B-PER
+Sciandri I-PER
+( O
+Britain B-LOC
+) O
+55 O
+

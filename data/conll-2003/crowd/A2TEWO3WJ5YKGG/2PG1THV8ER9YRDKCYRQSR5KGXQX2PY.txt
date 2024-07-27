@@ -1,0 +1,58 @@
+
+SOCCER B-ORG
+- O
+DUTCH B-MISC
+FIRST I-MISC
+DIVISION I-MISC
+SUMMARY O
+. O
+
+AMSTERDAM B-LOC
+1996-08-22 O
+
+Summary O
+of O
+Thursday O
+'s O
+only O
+
+Dutch B-MISC
+first I-MISC
+division I-MISC
+match O
+: O
+
+NEC B-MISC
+ B-LOC
+Nijmegen O
+1 O
+( O
+Van B-PER
+Eykeren I-PER
+15th O
+) O
+PSV B-MISC
+Eindhoven B-PER
+4 O
+( O
+Numan B-PER
+11th O
+, O
+
+Nilis B-PER
+42nd O
+, O
+Cocu B-PER
+54th O
+, O
+67th O
+) O
+. O
+
+Halftime O
+1-2 O
+. O
+
+Attendance O
+8,000 O
+

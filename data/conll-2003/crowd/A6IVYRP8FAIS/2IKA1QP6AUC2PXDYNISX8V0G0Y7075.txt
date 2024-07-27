@@ -1,0 +1,60 @@
+
+CRICKET O
+- O
+MILLNS O
+SIGNS O
+FOR O
+BOLAND B-ORG
+. O
+
+CAPE B-LOC
+TOWN I-LOC
+1996-08-22 O
+
+South B-MISC
+African I-MISC
+provincial O
+side O
+Boland B-ORG
+said O
+on O
+Thursday O
+they O
+had O
+signed O
+Leicestershire B-LOC
+fast O
+bowler O
+David B-PER
+Millns I-PER
+on O
+a O
+one O
+year O
+contract O
+. O
+
+Millns O
+, O
+who O
+toured O
+Australia B-LOC
+with O
+England B-LOC
+A O
+in O
+1992/93 O
+, O
+replaces O
+former O
+England B-LOC
+all-rounder O
+Phillip B-PER
+DeFreitas I-PER
+as O
+Boland B-ORG
+'s O
+overseas O
+professional O
+. O
+

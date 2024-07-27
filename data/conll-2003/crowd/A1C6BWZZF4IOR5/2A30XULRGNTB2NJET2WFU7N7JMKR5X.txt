@@ -1,0 +1,145 @@
+
+SOCCER O
+- O
+SCOTTISH O
+PREMIER O
+DIVISION O
+RESULT O
+/ O
+STANDINGS O
+. O
+
+GLASGOW/LOC B-LOC
+1996-08-25 O
+
+Result O
+of O
+a O
+Scottish B-MISC
+premier O
+
+division O
+soccer O
+match O
+on O
+Sunday O
+: O
+
+Aberdeen O
+4 O
+Hearts B-ORG
+0 O
+
+Standings O
+( O
+tabulated O
+under O
+played O
+, O
+won O
+, O
+drawn O
+, O
+lost O
+, O
+goals O
+
+for O
+, O
+against O
+, O
+points O
+) O
+: O
+
+Rangers O
+3 O
+3 O
+0 O
+0 O
+7 O
+2 O
+9 O
+
+Celtic O
+3 O
+2 O
+1 O
+0 O
+9 O
+4 O
+7 O
+
+Aberdeen O
+3 O
+1 O
+2 O
+0 O
+8 O
+4 O
+5 O
+
+Motherwell O
+3 O
+1 O
+2 O
+0 O
+6 O
+3 O
+5 O
+
+Hibernian O
+3 O
+1 O
+1 O
+1 O
+2 O
+2 O
+4 O
+
+Hearts B-ORG
+2 O
+1 O
+0 O
+1 O
+3 O
+6 O
+3 O
+
+Kilmarnock B-ORG
+3 O
+1 O
+0 O
+2 O
+5 O
+7 O
+3 O
+
+Dundee B-ORG
+United O
+3 O
+0 O
+1 O
+2 O
+1 O
+3 O
+1 O
+
+Dunfermline O
+2 O
+0 O
+1 O
+1 O
+2 O
+5 O
+1 O
+
+Raith O
+3 O
+0 O
+0 O
+3 O
+1 O
+8 O
+0 O
+

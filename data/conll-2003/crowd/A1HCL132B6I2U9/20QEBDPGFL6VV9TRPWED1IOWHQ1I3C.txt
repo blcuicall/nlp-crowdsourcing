@@ -1,0 +1,71 @@
+
+CRICKET O
+- O
+PAKISTAN/LOC B-LOC
+229-1 O
+V O
+ENGLAND/LOC O
+- O
+close O
+. O
+
+Saeed O
+Anwar I-PER
+not O
+out O
+116 O
+
+Aamir O
+Sohail O
+c O
+Cork O
+b O
+Croft O
+46 O
+
+Ijaz O
+Ahmed O
+not O
+out O
+58 O
+
+Extras O
+9 O
+
+Fall O
+of O
+wicket O
+- O
+1-106 O
+
+To O
+bat O
+- O
+Inzamam-ul-Haq O
+, O
+Salim O
+Malik I-PER
+, O
+Asif O
+Mujtaba O
+, O
+Wasim O
+Akram O
+, O
+Moin O
+Khan O
+, O
+Mushtaq O
+Ahmed O
+, O
+Waqar B-PER
+Younis O
+, O
+Mohammad B-PER
+Akam O
+
+England/LOC O
+326 O
+all O
+out O
+

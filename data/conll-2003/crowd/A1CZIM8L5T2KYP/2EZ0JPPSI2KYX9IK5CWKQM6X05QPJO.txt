@@ -1,0 +1,170 @@
+
+GOLF O
+- O
+LEADING O
+PRIZE O
+MONEY O
+WINNERS O
+ON O
+EUROPEAN O
+TOUR O
+. O
+
+STUTTGART/LOC O
+, O
+Germany/LOC O
+1996-08-25 O
+
+Leading O
+prize O
+money O
+
+winners O
+on O
+the O
+European O
+Tour O
+after O
+Sunday O
+'s O
+German O
+Open O
+( O
+Britain/LOC B-LOC
+
+unless O
+stated O
+) O
+: O
+
+1. O
+Ian O
+Woosnam O
+480,618 O
+pounds O
+sterling O
+
+2. O
+Colin O
+Montgomerie O
+429,449 O
+
+3. O
+Lee O
+Westwood O
+301,972 O
+
+4. O
+Robert B-PER
+Allenby O
+( O
+Australia/LOC O
+) O
+291,088 O
+
+5. O
+Mark O
+McNulty O
+( O
+Zimbabwe/LOC O
+) O
+254,247 O
+
+6. O
+Costantino O
+Rocca O
+( O
+Italy/LOC O
+) O
+253,337 O
+
+7. O
+Andrew B-PER
+Coltart O
+246,077 O
+
+8. O
+Wayne O
+Riley O
+( O
+Australia/LOC O
+) O
+233,713 O
+
+9. O
+Raymond O
+Russell O
+229,360 O
+
+10. O
+Stephen O
+Ames I-PER
+( O
+Trinidad/LOC B-LOC
+) O
+211,175 O
+
+11. O
+Frank O
+Nobilo O
+( O
+New/LOC B-LOC
+Zealand/LOC O
+) O
+209,412 O
+
+12. O
+Paul B-PER
+McGinley O
+( O
+Ireland/LOC O
+) O
+208,978 O
+
+13. O
+Paul B-PER
+Lawrie O
+207,990 O
+
+14. O
+Padraig B-PER
+Harrington O
+( O
+Ireland/LOC B-LOC
+) O
+202,593 O
+
+15. O
+Retief B-PER
+Goosen O
+( O
+South/LOC O
+Africa/LOC O
+) O
+188,143 O
+
+16. O
+Jonathan O
+Lomas O
+181,005 O
+
+17. O
+Paul O
+Broadhurst O
+172,580 O
+
+18. O
+Peter B-PER
+Mitchell O
+170,952 O
+
+19. O
+Jim B-PER
+Payne O
+165,150 O
+
+20. O
+Russell O
+Claydon O
+156,996 O
+

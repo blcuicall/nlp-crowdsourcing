@@ -1,0 +1,104 @@
+
+TENNIS O
+- O
+RESULTS O
+AT O
+CANADIAN O
+OPEN O
+. O
+
+TORONTO/LOC O
+1996-08-23 O
+
+Results O
+from O
+the O
+Canadian O
+Open O
+
+tennis O
+tournament O
+on O
+Friday O
+( O
+prefix O
+numbers O
+denotes O
+seedings O
+) O
+: O
+
+Quarterfinals O
+
+3 O
+- O
+Wayne B-PER
+Ferreira O
+( O
+South/LOC O
+Africa/LOC O
+) O
+beat O
+5 O
+- O
+Thomas O
+Enqvist O
+
+( O
+Sweden/LOC O
+) O
+7-5 O
+6-2 O
+
+4 O
+- O
+Marcelo O
+Rios O
+( O
+Chile/LOC O
+) O
+beat O
+Patrick O
+Rafter O
+( O
+Australia/LOC O
+) O
+0-6 O
+
+7-6 O
+( O
+7-4 O
+) O
+6-1 O
+
+7 O
+- O
+Todd O
+Martin O
+( O
+U.S./LOC O
+) O
+beat O
+Alex O
+O'Brien O
+( O
+U.S./LOC O
+) O
+6-4 O
+6-4 O
+
+Todd O
+Woodbridge O
+( O
+Australia/LOC O
+) O
+beat O
+Mark O
+Philippoussis O
+
+( O
+Australia/LOC O
+) O
+7-5 O
+6-4 O
+

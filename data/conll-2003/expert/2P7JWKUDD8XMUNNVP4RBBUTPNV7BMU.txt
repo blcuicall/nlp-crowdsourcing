@@ -1,0 +1,202 @@
+
+MOTOCROSS O
+- O
+SWEDISH B-MISC
+500CC O
+GRAND B-MISC
+PRIX I-MISC
+RESULTS O
+. O
+
+LANDSKRONA B-LOC
+, O
+Sweden B-LOC
+1996-08-25 O
+
+Leading O
+results O
+in O
+the O
+
+Swedish B-MISC
+500cc O
+motocross O
+Grand B-MISC
+Prix I-MISC
+on O
+Sunday O
+: O
+
+First O
+race O
+
+1. O
+Joel B-PER
+Smets I-PER
+( O
+Belgium B-LOC
+) O
+Husaberg B-ORG
+
+2. O
+Peter B-PER
+Johansson I-PER
+( O
+Sweden B-LOC
+) O
+Husqvarna B-ORG
+
+3. O
+Gert B-PER
+Jan I-PER
+Van I-PER
+Doorn I-PER
+( O
+Netherlands B-LOC
+) O
+Honda B-ORG
+
+4. O
+Jacky B-PER
+Martens I-PER
+( O
+Belgium B-LOC
+) O
+Husqvarna B-ORG
+
+5. O
+Peter B-PER
+Dirkx I-PER
+( O
+Belgium B-LOC
+) O
+KTM B-ORG
+
+6. O
+Danny B-PER
+Theybers I-PER
+( O
+Belgium B-LOC
+) O
+Honda B-ORG
+
+Second O
+race O
+
+1. O
+Shayne B-PER
+King I-PER
+( O
+New B-LOC
+Zealand I-LOC
+) O
+KTM B-ORG
+
+2. O
+Martens B-PER
+
+3. O
+Theybers B-PER
+
+4. O
+Johan B-PER
+Boonen I-PER
+( O
+Belgium B-LOC
+) O
+Husqvarna B-ORG
+
+5. O
+Dietmar B-PER
+Lalcher I-PER
+( O
+Germany B-LOC
+) O
+Honda B-ORG
+
+6. O
+Claus B-PER
+Manne I-PER
+Nielsen I-PER
+( O
+Denmark B-LOC
+) O
+KTM B-ORG
+
+Overall O
+on O
+day O
+: O
+
+1. O
+Martens B-PER
+30 O
+points O
+
+2. O
+Shayne B-PER
+King I-PER
+28 O
+
+3. O
+Smets B-PER
+27 O
+
+4. O
+Theybers B-PER
+25 O
+
+5. O
+Van B-PER
+Doorn I-PER
+24 O
+
+6. O
+Johansson B-PER
+17 O
+
+World O
+championship O
+standings O
+( O
+after O
+11 O
+of O
+12 O
+rounds O
+) O
+: O
+
+1. O
+Shayne B-PER
+King I-PER
+323 O
+points O
+
+2. O
+Smets B-PER
+290 O
+
+3. O
+Johansson B-PER
+236 O
+
+4. O
+Lacher B-PER
+219 O
+
+5. O
+Darryll B-PER
+King I-PER
+( O
+New B-LOC
+Zealand I-LOC
+) O
+Honda B-ORG
+178 O
+
+6. O
+Van B-PER
+Doorn I-PER
+176 O
+

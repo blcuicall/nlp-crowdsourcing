@@ -1,0 +1,31 @@
+
+SOCCER B-PER
+- I-PER
+DUTCH I-PER
+FIRST O
+DIVISION O
+RESULT O
+. O
+
+AMSTERDAM B-PER
+1996-08-22 O
+
+Result O
+of O
+a O
+Dutch O
+first O
+
+division O
+match O
+on O
+Thursday O
+: O
+
+NEC O
+Nijmegen B-MISC
+1 I-MISC
+PSV I-MISC
+Eindhoven I-MISC
+4 I-MISC
+

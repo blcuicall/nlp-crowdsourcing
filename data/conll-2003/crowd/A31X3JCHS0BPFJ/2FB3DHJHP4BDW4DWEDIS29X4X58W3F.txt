@@ -1,0 +1,98 @@
+
+TENNIS O
+- O
+RESULTS O
+AT O
+TOSHIBA B-ORG
+CLASSIC I-ORG
+. O
+
+CARLSBAD B-LOC
+, O
+California B-LOC
+1996-08-24 O
+
+Results O
+from O
+the O
+
+$ O
+450,000 O
+Toshiba B-ORG
+Classic I-ORG
+tennis O
+tournament O
+on O
+Friday O
+( O
+prefix O
+
+number O
+denotes O
+seeding O
+) O
+: O
+
+Quarterfinals O
+: O
+
+1 O
+- O
+Arantxa B-PER
+Sanchez I-PER
+Vicario I-PER
+( O
+Spain B-LOC
+) O
+beat O
+Katarina B-PER
+Studenikova I-PER
+
+( O
+Slovakia B-LOC
+) O
+6-3 O
+6-3 O
+
+3 O
+- O
+Jana B-PER
+Novotna I-PER
+( O
+Czech B-LOC
+Republic I-LOC
+) O
+beat O
+Sandrine B-PER
+Testud I-PER
+( O
+France B-LOC
+) O
+
+2-6 O
+7-6 O
+( O
+7-4 O
+) O
+6-3 O
+. O
+
+4 O
+- O
+Kimiko B-PER
+Date I-PER
+( O
+Japan B-LOC
+) O
+beat O
+5 O
+- O
+Gabriela B-PER
+Sabatini I-PER
+( O
+Argentina B-LOC
+) O
+
+6-4 O
+6-1 O
+

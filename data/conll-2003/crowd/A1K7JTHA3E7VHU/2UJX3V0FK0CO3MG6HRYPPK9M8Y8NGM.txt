@@ -1,0 +1,244 @@
+
+SOCCER B-MISC
+- O
+DUTCH B-LOC
+FIRST O
+DIVISION O
+SUMMARIES O
+. O
+
+AMSTERDAM B-LOC
+1996-08-25 O
+
+Summary O
+of O
+Dutch B-LOC
+first O
+division O
+
+soccer B-MISC
+played O
+on O
+Sunday O
+: O
+
+Feyenoord B-LOC
+Rotterdam I-LOC
+3 O
+( O
+Sanchez B-PER
+27th O
+, O
+Taument B-PER
+44th O
+, O
+57th O
+) O
+
+Volendam B-LOC
+0 O
+. O
+
+Halftime O
+2-0 O
+. O
+
+Attendance O
+not O
+given O
+. O
+
+NEC B-LOC
+Nijmegen B-PER
+0 O
+AZ B-PER
+Alkmaar I-PER
+0 O
+. O
+
+Attendance O
+not O
+given O
+. O
+
+Vitesse B-LOC
+Arnhem I-LOC
+1 O
+( O
+Van B-PER
+Wanrooy I-PER
+58th O
+) O
+Utrecht B-LOC
+0 O
+. O
+
+Halftime O
+0-0 O
+. O
+
+Attendance O
+7,032 O
+. O
+
+Twente B-ORG
+Enschede I-ORG
+1 O
+( O
+Hoogma O
+30th O
+) O
+Roda B-PER
+JC I-PER
+Kerkrade I-PER
+1 O
+( O
+Roelofsen O
+
+28th O
+) O
+. O
+
+Halftime O
+1-1 O
+. O
+
+Attendance O
+not O
+given O
+. O
+
+PSV B-PER
+Eindhoven I-PER
+4 O
+( O
+Faber B-PER
+32nd O
+, O
+Nilis B-PER
+63rd O
+79th O
+, O
+Petrovic B-PER
+78th O
+) O
+
+Groningen B-LOC
+1 O
+( O
+Gorre B-PER
+7th O
+) O
+. O
+
+Halftime O
+1-1 O
+. O
+
+Attendance O
+27,500 O
+
+Played O
+on O
+Saturday O
+: O
+
+Graafschap B-LOC
+Doetinchem I-LOC
+3 O
+( O
+Ibrahim B-PER
+20th O
+63rd O
+, O
+Godee B-PER
+54th O
+) O
+RKC O
+
+Waalwijk O
+2 O
+( O
+Dos B-PER
+Santos I-PER
+38th O
+, O
+Van B-PER
+Arum I-PER
+73th O
+penalty O
+) O
+. O
+
+Halftime O
+
+1-1 O
+. O
+
+Attendance O
+7,000 O
+
+Willem B-PER
+II O
+Tilburg B-PER
+0 O
+Fortuna B-PER
+Sittard I-PER
+1 O
+( O
+Hamming O
+65th O
+) O
+. O
+
+Halftime O
+
+0-0 O
+. O
+
+Attendance O
+7,250 O
+. O
+
+NAC B-PER
+Breda I-PER
+1 O
+( O
+Arnold B-LOC
+70th O
+) O
+Sparta B-ORG
+Rotterdam I-ORG
+0 O
+. O
+
+Haldtime B-PER
+0-0 O
+. O
+
+Attendance O
+11,500 O
+. O
+
+Heerenveen B-ORG
+2 O
+( O
+Wouden B-PER
+53rd O
+, O
+Dahl B-LOC
+Tomasson I-LOC
+74th O
+) O
+Ajax O
+Amsterdam B-LOC
+
+0. O
+Halftime O
+0-0 O
+. O
+
+Attendance O
+13,500 O
+. O
+

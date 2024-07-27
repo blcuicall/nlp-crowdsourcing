@@ -1,0 +1,31 @@
+
+SOCCER B-ORG
+- O
+SCOTTISH O
+THIRD O
+DIVISION O
+RESULT O
+. O
+
+GLASGOW B-LOC
+1996-08-23 O
+
+Result O
+of O
+a O
+Scottish O
+third O
+
+division O
+soccer B-ORG
+match O
+on O
+Friday O
+: O
+
+East O
+Stirling O
+0 O
+Albion O
+1 O
+

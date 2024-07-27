@@ -1,0 +1,78 @@
+
+SOCCER O
+- O
+BRAZIL B-LOC
+IAN O
+CHAMPIONSHIP O
+RESULTS O
+. O
+
+RIO B-MISC
+DE I-MISC
+JANEIRO I-MISC
+1996-08-22 O
+
+Results O
+of O
+midweek O
+
+matches O
+in O
+the O
+Brazil B-LOC
+ian O
+soccer O
+championship O
+. O
+
+Bahia B-PER
+2 O
+Atletico B-PER
+Parana B-PER
+ense I-PER
+0 O
+
+Corinthians B-PER
+1 O
+Guarani B-PER
+0 O
+
+Coritiba B-PER
+1 O
+Atletico B-PER
+Mineiro I-PER
+0 O
+
+Cruzeiro B-PER
+2 O
+Vitoria B-PER
+1 O
+
+Flamengo B-PER
+0 O
+Juventude B-PER
+1 O
+
+Goias B-PER
+3 O
+Sport B-PER
+Recife I-PER
+1 O
+
+Gremio B-PER
+6 O
+Bragantino B-PER
+1 O
+
+Palmeiras B-PER
+3 O
+Vasco B-PER
+da I-PER
+Gama I-PER
+1 O
+
+Portuguesa B-PER
+2 O
+Parana B-PER
+0 O
+

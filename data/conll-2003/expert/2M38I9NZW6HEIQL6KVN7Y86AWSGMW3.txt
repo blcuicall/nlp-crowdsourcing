@@ -1,0 +1,164 @@
+
+German B-MISC
+flown O
+cargo O
+January-July O
+rise O
+3.8 O
+percent O
+. O
+
+FRANKFURT B-LOC
+1996-08-22 O
+
+The O
+following O
+table O
+shows O
+total O
+flown O
+air O
+cargo O
+volumes O
+in O
+tonnes O
+handled O
+at O
+international O
+German B-MISC
+airports O
+January-July O
+1996 O
+. O
+
+The O
+figures O
+exclude O
+trucked O
+airfreight O
+according O
+to O
+the O
+German B-MISC
+airports O
+association O
+ADV B-ORG
+. O
+
+Berlin B-LOC
+( O
+total O
+) O
+17,844 O
+up O
+5.9 O
+pct O
+
+- O
+Tegel B-LOC
+10,896 O
+up O
+3.1 O
+
+- O
+Tempelhof B-LOC
+202 O
+down O
+60.0 O
+
+- O
+Schoenefeld B-LOC
+6,746 O
+up O
+16.8 O
+
+Bremen B-LOC
+1,453 O
+up O
+13.1 O
+
+Dresden B-LOC
+792 O
+up O
+11.4 O
+
+Duessseldorf B-LOC
+31,347 O
+down O
+4.4 O
+
+Frankfurt B-LOC
+768,269 O
+up O
+1.5 O
+
+Hamburg B-LOC
+21,240 O
+down O
+3.5 O
+
+Hannover B-LOC
+6,030 O
+up O
+15.3 O
+
+Koeln B-LOC
+( O
+Cologne B-LOC
+) O
+182,887 O
+up O
+11.8 O
+
+Leipzig B-LOC
+/ O
+Halle B-LOC
+1,806 O
+up O
+45.6 O
+
+Munich B-LOC
+44,525 O
+up O
+11.8 O
+
+Muenster B-LOC
+/ O
+Osnabrueck B-LOC
+382 O
+up O
+28.2 O
+
+Nuremberg B-LOC
+25,929 O
+up O
+17.8 O
+
+Saarbruecken B-LOC
+626 O
+up O
+28.3 O
+
+Stuttgart B-LOC
+10,655 O
+up O
+11.7 O
+
+TOTAL O
+1,113,785 O
+up O
+3.8 O
+
+- O
+Air B-ORG
+Cargo I-ORG
+Newsroom I-ORG
+Tel+44 O
+161 O
+542 O
+7706 O
+Fax+44 O
+171 O
+542 O
+5017 O
+

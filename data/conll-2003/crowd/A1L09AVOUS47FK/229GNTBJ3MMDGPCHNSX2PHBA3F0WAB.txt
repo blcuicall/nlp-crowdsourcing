@@ -1,0 +1,83 @@
+
+Saudi B-MISC
+ B-LOC
+Arabia I-LOC
+executes O
+Pakistani B-MISC
+man O
+. O
+
+DUBAI B-LOC
+1996-08-25 O
+
+Saudi B-MISC
+ B-LOC
+Arabia I-LOC
+executed O
+on O
+Sunday O
+a O
+Pakistani B-MISC
+man O
+accused O
+of O
+belonging O
+to O
+an O
+armed O
+gang O
+of O
+robbers O
+, O
+Saudi B-MISC
+television O
+reported O
+. O
+
+It O
+quoted O
+an O
+Interior B-ORG
+Ministry I-ORG
+statement O
+as O
+saying O
+Shabir B-PER
+Ahmad I-PER
+Muhammad I-PER
+Jalil O
+was O
+executed O
+in O
+Mecca B-LOC
+. O
+
+He O
+was O
+the O
+26th O
+person O
+executed O
+this O
+year O
+in O
+the O
+kingdom O
+. O
+
+Saudi B-MISC
+ B-LOC
+Arabia I-LOC
+beheads O
+convicted O
+drug O
+smugglers O
+, O
+rapists O
+, O
+murderers O
+and O
+other O
+criminals O
+. O
+

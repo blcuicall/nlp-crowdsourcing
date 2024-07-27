@@ -1,0 +1,36 @@
+
+SOCCER O
+- O
+ENGLISH O
+FIRST O
+DIVISION O
+RESULTS O
+. O
+
+LONDON/LOC O
+1996-08-23 O
+
+Results O
+of O
+English B-MISC
+first O
+division O
+
+soccer O
+matches O
+on O
+Friday O
+: O
+
+Portsmouth O
+1 O
+Queens B-ORG
+Park I-ORG
+Rangers O
+2 O
+
+Tranmere O
+3 O
+Grimsby O
+2 O
+
