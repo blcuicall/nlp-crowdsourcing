@@ -80,13 +80,11 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 If you find our work helpful, please consider citing the following paper.
 
 ```bibtex
-@misc{wang2023costefficientcrowdsourcingspanbasedsequence,
-      title={Cost-efficient Crowdsourcing for Span-based Sequence Labeling: Worker Selection and Data Augmentation}, 
-      author={Yujie Wang and Chao Huang and Liner Yang and Zhixuan Fang and Yaping Huang and Yang Liu and Erhong Yang},
-      year={2023},
-      eprint={2305.06683},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2305.06683}, 
+@inproceedings{wang-etal-2024-crowdsourcing-span,
+    title = {Cost-efficient Crowdsourcing for Span-based Sequence Labeling: Worker Selection and Data Augmentation},
+    author = {Yujie Wang and Chao Huang and Liner Yang and Zhixuan Fang and Yaping Huang and Yang Liu and Jingsi Yu and Erhong Yang},
+    booktitle = {CCL},
+    month = {July},
+    year = {2024},
 }
 ```
