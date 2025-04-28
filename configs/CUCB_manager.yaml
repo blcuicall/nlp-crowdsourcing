@@ -1,0 +1,3 @@
+manager_class: CUCBManager
+ucb_scale: 1.0
+evaluation_type: 'mv_expert' # 'mv', 'expert', or 'mv_expert'

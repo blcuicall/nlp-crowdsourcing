@@ -1,10 +1,11 @@
+import matplotlib.pyplot as plt
+import seaborn
+from tqdm import tqdm
+
+from src.dataset import YACLCDataset
+from src.data_augmentor import YACLCDataAugmentor
+
 import argparse
-import warnings
-
-from algorithm import run_average, run_once
-from utils import run_cache_annotations
-
-warnings.filterwarnings("ignore")
 
 argparser = argparse.ArgumentParser()
 
@@ -13,38 +14,51 @@ argparser.add_argument('--num_steps', type=int, default=10000)
 argparser.add_argument('--annotation_num_per_sentence', type=int, default=1)
 argparser.add_argument('--allow_exhaustion', action='store_true')
 argparser.add_argument('--evaluation_interval', type=int, default=0)
-argparser.add_argument('--manager_type', type=str, default='normal', choices=['normal', 'mv_expert', 'mv', 'kappa_agg',
-                                                                              'best', 'worst', 'random',
-                                                                              'epsilon_greedy', 'thompson_sampling'])
-argparser.add_argument('--allow_fake_annotations', action='store_true')
-argparser.add_argument('--only_fake_annotations', action='store_true')
-argparser.add_argument('--metrics_type', type=str, default='span_exact',
-                       choices=['span_exact', 'span_proportional', 'token', 'pearson'])
-argparser.add_argument('--split_spans', action='store_true')
-argparser.add_argument('--ucb_scale', type=float, default=1.0)
-argparser.add_argument('--acceptable_mv_char_error_nums', type=int, default=0)
-argparser.add_argument('--acceptable_mv_percentage', type=float, default=0.67)
-argparser.add_argument('--fleiss_kappa_threshold', type=float, default=0.5)
-argparser.add_argument('--agg_method', type=str, default='mv', choices=['mv', 'bsc'])
-argparser.add_argument('--use_fake_annotation_cache', action='store_true')
-argparser.add_argument('--use_gold_expert', action='store_true')
-argparser.add_argument('--epsilon', type=float)
-argparser.add_argument('--selected_worker_num', type=int, default=20)
-
-argparser.add_argument('--cache_annotations', action='store_true')
 
 if __name__ == '__main__':
-    args = argparser.parse_args()
+    data_path = 'data/group_articles_type_correction_user_new.txt'
+    dataset = YACLCDataset()
+    tqdm.write('Reading data...')
+    dataset.read_data(data_path, sent_num_limit=50, use_cache=False)
+    tqdm.write('Read complete.')
+    # dataset.dump_data()
+    tqdm.write('Augmenting data...')
+    augmentor = YACLCDataAugmentor(dataset)
+    augmentor.augment_dataset(processes=8)
+    tqdm.write('Augmentation complete.')
+    # augmentor.augment_sent(dataset.id2sent[4921])
 
-    if args.cache_annotations:
-        run_cache_annotations(use_gold_expert=args.use_gold_expert,
-                              metrics_type=args.metrics_type)
-    elif args.average_over == 1:
-        run_args = vars(args)
-        run_args.pop('average_over')
-        run_args.pop('cache_annotations')
-        run_once(**run_args)
-    else:
-        run_args = vars(args)
-        run_args.pop('cache_annotations')
-        run_average(**run_args)
+    # data_path = 'data/group_articles_type_correction_user_new.txt'
+    # dataset = YACLCDataset()
+    # statistics = dataset.do_statistics(data_path, sent_num_limit=-1, use_cache=False)
+    # percents = [max_num / total_num for (max_num, total_num) in statistics]
+    # great = [max_num / total_num for (max_num, total_num) in statistics if max_num / total_num > 0.5]
+    # print(len(great) / len(percents))
+    # plt.hist(percents, bins=10, density=False, histtype='bar', rwidth=0.8, align='mid')
+    # plt.xlabel('gold worker / all worker on sent')
+    # plt.show()
+
+    # agreement
+    # data_path = 'data/group_articles_type_correction_user_new.txt'
+    # dataset = YACLCDataset()
+    # tqdm.write('Reading data...')
+    # dataset.read_data(data_path, sent_num_limit=-1, use_cache=True)
+    # tqdm.write('Read complete.')
+    # tqdm.write('Calculating agreement...')
+    # sent2agreement = dataset.get_agreement()
+    # with open('out/stats/sent2agreement.csv', 'w') as writer:
+    #     writer.write(f'Sent ID:::Text:::Agreement\n')
+    #     for sent, agreement in sent2agreement.items():
+    #         writer.write(f'{sent.id}:::{agreement * 100:.04f}:::{"".join(sent.content)}\n')
+    # tqdm.write('Complete.')
+    #
+    # agreements = []
+    # with open('out/stats/sent2agreement.csv') as reader:
+    #     reader.readline()
+    #     for line in reader:
+    #         agreements.append(float(line.strip().split(':::')[1]))
+    # seaborn.displot(agreements)
+    # plt.show()
+
+    # print(sent2agreement)
+

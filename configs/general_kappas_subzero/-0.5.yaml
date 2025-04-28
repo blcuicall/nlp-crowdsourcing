@@ -1,0 +1,7 @@
+num_run: 10
+use_cache: True
+cache_path: 'data/cache/aug-data-yaclc-s32124.pkl'
+output_dir: 'out/stats'
+num_workers_in_step: 20
+num_anno_per_sent: 10
+kappa_threshold: -0.5

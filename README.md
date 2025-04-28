@@ -11,6 +11,8 @@ If you are interested in our research, please visit our official website: [ICALL
 
 ## What's New
 
+**2025/04/01:** Our paper **Cost-Optimized Crowdsourcing for NLP via Worker Selection and Data Augmentation** has been accepted by IEEE Transactions of Network Sciences and Engineering! 🎉🎉🎉
+
 **2024/07/27:** We presented our work with a poster at CCL 2024. The poster can be found [here](nlp_crowdsourcing_poster.pdf).
 
 **2024/05/25:** Our paper has been accepted by CCL 2024! 🎉🎉🎉

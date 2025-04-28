@@ -1,0 +1,3 @@
+manager_class: ThompsonSamplingManager
+sample_num: 20
+evaluation_type: 'mv_expert' # 'mv', 'expert', or 'mv_expert'

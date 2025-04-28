@@ -1,0 +1,3 @@
+manager_class: EpsilonGreedyManager
+epsilon: 0.3
+evaluation_type: 'mv_expert' # 'mv', 'expert', or 'mv_expert'
