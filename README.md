@@ -4,7 +4,7 @@
  📝<a href="https://arxiv.org/abs/2305.06683" target="_blank"> Paper </a> • 📊<a href="./nlp_crowdsourcing_poster.pdf" target="_blank"> Poster </a> • 👋 Visit our <a href="https://blcuicall.org/" target="_blank">official website</a>
 </p>
 
-This repository contains code and data for the paper **Cost-efficient Crowdsourcing for Span-based Sequence Labeling: Worker Selection and Data Augmentation** presented on CCL 2024. 
+This repository contains code and data for the paper **Cost-Optimized Crowdsourcing for NLP via Worker Selection and Data Augmentation** published on IEEE Transactions of Network Sciences and Engineering.
 
 If you are interested in our research, please visit our official website: [ICALL Research Group at Beijing Language and Culture University](https://blcuicall.org/).
 
@@ -15,7 +15,7 @@ If you are interested in our research, please visit our official website: [ICALL
 
 **2024/07/27:** We presented our work with a poster at CCL 2024. The poster can be found [here](nlp_crowdsourcing_poster.pdf).
 
-**2024/05/25:** Our paper has been accepted by CCL 2024! 🎉🎉🎉
+**2024/05/25:** Our paper **Cost-efficient Crowdsourcing for Span-based Sequence Labeling: Worker Selection and Data Augmentation** has been accepted by CCL 2024! 🎉🎉🎉
 
 **2023/05/11:** We uploaded the [initial version](https://arxiv.org/abs/2305.06683v1) of out paper to arXiv.
 
@@ -40,37 +40,19 @@ If you are interested in our research, please visit our official website: [ICALL
 
 ## Usage
 
-To run the experiments mentioned in the paper, you can use the shell scripts provided in this repo like:
+To reproduce the experiments mentioned in the paper, you can simply run the provided shell script like:
 
 ```shell
-./run_table_tests.sh [oei|conll]
+chmod +x ./script/deploy_all_experiments.sh 
+./script/deploy_all_experiments.sh
 ```
 
-We provide five scripts for different experiments.
+This script will deploy the experiments on the slurm system. If you dont use slurm on your machine, you may check each independent script and run the shell command manually, like:
 
-The script `./run_table_tests.sh` reproduces the numerical results in Table 3 and 4 in the paper. 
 ```shell
-./run_table_tests.sh [oei|conll]
-```
-
-The script `run_regret_tests.sh` compares different CMAB algorithms on the regret metric. 
-```shell
-./run_regret_tests.sh [oei|conll]
-```
-
-The script `run_epsilon_tests.sh` tests for the best Epsilon value in the Epsilon-Greedy algorithm. 
-```shell
-./run_epsilon_tests.sh [oei|conll]
-```
-
-The script `run_ucb_scale_tests.sh` tests for the best UCB scale value in the CUCB algorithm. 
-```shell
-./run_ucb_scale_tests.sh [oei|conll]
-```
-
-The script `run_kappa_tests.sh` tests for the best kappa threshold in the combined feedback mechanism.
-```shell
-./run_kappa_tests.sh [oei|conll]
+python -m src.run_selection \
+	--general_config "configs/general.yaml" \
+	--manager_config "configs/CUCB_manager.yaml"
 ```
 
 ## License
@@ -82,11 +64,21 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 If you find our work helpful, please consider citing the following paper.
 
 ```bibtex
+@article{yang-etal-2025-cost-optimized,
+   title = {Cost-Optimized Crowdsourcing for NLP via Worker Selection and Data Augmentation},
+   author = {Yang, Liner and Wang, Yujie and Fang, Zhixuan and Huang, Yaping and Yang, Erhong},
+   journal = {IEEE Transactions on Network Science and Engineering},
+   year = {2025},
+   volume = {},
+   number = {},
+   pages = {1-18},
+   doi = {10.1109/TNSE.2025.3559342} }
+
 @inproceedings{wang-etal-2024-crowdsourcing-span,
-    title = {Cost-efficient Crowdsourcing for Span-based Sequence Labeling: Worker Selection and Data Augmentation},
-    author = {Yujie Wang and Chao Huang and Liner Yang and Zhixuan Fang and Yaping Huang and Yang Liu and Jingsi Yu and Erhong Yang},
-    booktitle = {CCL},
-    month = {July},
-    year = {2024},
+   title = {Cost-efficient Crowdsourcing for Span-based Sequence Labeling: Worker Selection and Data Augmentation},
+   author = {Yujie Wang and Chao Huang and Liner Yang and Zhixuan Fang and Yaping Huang and Yang Liu and Jingsi Yu and Erhong Yang},
+   booktitle = {CCL},
+   month = {July},
+   year = {2024},
 }
 ```
